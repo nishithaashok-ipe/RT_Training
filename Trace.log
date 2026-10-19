@@ -1,0 +1,1648 @@
+28.09.2026 10:51:03.521	I	SYSTEM	V16.02.00 RC Build 4581: Lizenztyp: Developer
+28.09.2026 10:51:03.521	I	SYSTEM	Init GPG started
+28.09.2026 10:51:03.774	I	SYSTEM	Init GPG finished Key found: False IsPublic: False IsPrivate: False KeyId: 
+28.09.2026 10:51:16.739	I	MAL	MAL IPEmotionRT: Version: V09.02.00.72332 Path:C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\MAL\IPEmotionRT
+28.09.2026 10:51:33.018	I	IO	RawDataBackupDirectoryController.InitCapacity(): IrdCount:0  DirSize:0  FreeSize:275982917632
+28.09.2026 10:51:33.021	I	IO	RawDataBackupDirectoryController.ControlCapacity(): IrdCount:0  DirSize:0  FreeSize:275982917632 DeletedFiles:0
+28.09.2026 10:51:33.071	W	IO	Setup for UOP does not exist.
+28.09.2026 10:51:33.247	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 10:51:33.276	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 10:51:33.328	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 10:51:33.328	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 10:51:33.334	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 10:51:33.335	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 10:51:33.342	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 10:51:33.342	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 10:51:33.734	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 10:51:35.171	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 10:51:35.394	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 10:51:35.395	E	UOP	Plugin '_META_NOOP' wurde bereits initialisiert
+28.09.2026 10:51:35.399	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 10:51:35.399	E	UOP	Plugin '_META_NOOP' wurde bereits initialisiert
+28.09.2026 10:51:35.406	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 10:51:35.406	E	UOP	Plugin 'ReplaceNoValues Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.412	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 10:51:35.412	E	UOP	Plugin 'ReplaceNoValues Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.418	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 10:51:35.419	E	UOP	Plugin 'Invert Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.426	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 10:51:35.427	E	UOP	Plugin 'Invert Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.433	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 10:51:35.434	E	UOP	Plugin 'TimeCorrection Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.440	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 10:51:35.441	E	UOP	Plugin 'TimeCorrection Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.447	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 10:51:35.448	E	UOP	Plugin 'Smoothing Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.449	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 10:51:35.449	E	UOP	Plugin 'Smoothing Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.455	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 10:51:35.455	E	UOP	Plugin 'Average Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.461	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 10:51:35.461	E	UOP	Plugin 'Average Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.472	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 10:51:35.472	E	UOP	Plugin 'Rounding Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.475	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 10:51:35.476	E	UOP	Plugin 'Rounding Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.480	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 10:51:35.480	E	UOP	Plugin 'Resampling Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.483	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 10:51:35.484	E	UOP	Plugin 'Resampling Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.494	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 10:51:35.495	E	UOP	Plugin 'Approximation Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.506	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 10:51:35.507	E	UOP	Plugin 'Approximation Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.539	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 10:51:35.539	E	UOP	Plugin 'PowerCalculation Plugin' wurde bereits initialisiert
+28.09.2026 10:51:35.574	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 10:51:35.576	E	UOP	Plugin 'PowerCalculation Plugin' wurde bereits initialisiert
+28.09.2026 10:51:41.536	W	IO	Setup for VEP does not exist.
+28.09.2026 10:51:41.794	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 10:51:41.806	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 10:51:41.811	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 10:51:41.813	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 10:51:41.848	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 10:51:42.018	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 10:51:42.042	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 10:51:42.082	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 10:51:42.211	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 10:51:42.350	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 10:51:42.458	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 10:51:42.478	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 10:51:42.510	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 10:51:42.834	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 10:51:42.834	E	VEP	Plugin 'Statistical Table' wurde bereits initialisiert
+28.09.2026 10:51:42.837	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 10:51:42.837	E	VEP	Plugin 'Statistical Table' wurde bereits initialisiert
+28.09.2026 10:51:42.840	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 10:51:42.840	E	VEP	Plugin 'Analog Plugin' wurde bereits initialisiert
+28.09.2026 10:51:42.842	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 10:51:42.844	E	VEP	Plugin 'Analog Plugin' wurde bereits initialisiert
+28.09.2026 10:51:42.846	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 10:51:42.846	E	VEP	Plugin 'Bar graph' wurde bereits initialisiert
+28.09.2026 10:51:42.849	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 10:51:42.849	E	VEP	Plugin 'Bar graph' wurde bereits initialisiert
+28.09.2026 10:51:42.851	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 10:51:42.853	E	VEP	Plugin 'Slide control' wurde bereits initialisiert
+28.09.2026 10:51:42.855	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 10:51:42.855	E	VEP	Plugin 'Slide control' wurde bereits initialisiert
+28.09.2026 10:51:42.863	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 10:51:42.863	E	VEP	Plugin 'Tachometer Plugin' wurde bereits initialisiert
+28.09.2026 10:51:42.869	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 10:51:42.869	E	VEP	Plugin 'Tachometer Plugin' wurde bereits initialisiert
+28.09.2026 10:51:42.875	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 10:51:42.875	E	VEP	Plugin 'Label' wurde bereits initialisiert
+28.09.2026 10:51:42.879	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 10:51:42.881	E	VEP	Plugin 'Label' wurde bereits initialisiert
+28.09.2026 10:51:42.881	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 10:51:42.884	E	VEP	Plugin 'Box and Whisker Plot' wurde bereits initialisiert
+28.09.2026 10:51:42.886	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 10:51:42.886	E	VEP	Plugin 'Box and Whisker Plot' wurde bereits initialisiert
+28.09.2026 10:51:42.890	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 10:51:42.890	E	VEP	Plugin 'Compass/Directional Display' wurde bereits initialisiert
+28.09.2026 10:51:42.896	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 10:51:42.896	E	VEP	Plugin 'Compass/Directional Display' wurde bereits initialisiert
+28.09.2026 10:51:42.899	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 10:51:42.901	E	VEP	Plugin 'Scatter Chart' wurde bereits initialisiert
+28.09.2026 10:51:42.902	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 10:51:42.902	E	VEP	Plugin 'Scatter Chart' wurde bereits initialisiert
+28.09.2026 10:51:42.934	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 10:51:42.934	E	VEP	Plugin 'Mollier Diagram' wurde bereits initialisiert
+28.09.2026 10:51:42.948	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 10:51:42.949	E	VEP	Plugin 'Mollier Diagram' wurde bereits initialisiert
+28.09.2026 10:51:42.958	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 10:51:42.960	E	VEP	Plugin 'Diagnostics' wurde bereits initialisiert
+28.09.2026 10:51:42.966	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 10:51:42.968	E	VEP	Plugin 'Diagnostics' wurde bereits initialisiert
+28.09.2026 10:51:42.973	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 10:51:42.975	E	VEP	Plugin 'Characteristics' wurde bereits initialisiert
+28.09.2026 10:51:42.987	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 10:51:42.987	E	VEP	Plugin 'Characteristics' wurde bereits initialisiert
+28.09.2026 10:51:43.003	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 10:51:43.005	E	VEP	Plugin 'HeatFlow Matrix' wurde bereits initialisiert
+28.09.2026 10:51:43.012	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 10:51:43.013	E	VEP	Plugin 'HeatFlow Matrix' wurde bereits initialisiert
+28.09.2026 10:51:44.203	I	VISUAL	ActiveFormIndex: 1
+28.09.2026 10:51:50.643	I	ExternalSource	No file for external source defined.
+28.09.2026 10:55:54.659	I	PLUGIN	Plugins have changed.
+28.09.2026 10:56:03.012	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+28.09.2026 10:56:03.012	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+28.09.2026 10:56:03.012	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+28.09.2026 10:56:03.461	I	SYSTEM	Searching RT-USB-Devices
+28.09.2026 10:56:04.448	I	SYSTEM	No RT-USB-Device found
+28.09.2026 10:56:04.996	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any):  Start der Verbindung
+28.09.2026 10:56:08.458	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 160):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+28.09.2026 10:56:08.467	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): MEA_0528.ziprt / LOG_0516.zip
+28.09.2026 10:57:43.941	I	CONFIGURATION	Exit configuration
+28.09.2026 10:57:43.941	I	CONFIGURATION	Exit driver
+28.09.2026 10:57:43.958	I	CONFIGURATION	Disconnect net drives
+28.09.2026 10:57:43.958	I	CONFIGURATION	Disconnected net drives
+28.09.2026 10:57:43.958	I	CONFIGURATION	Exit done
+28.09.2026 10:57:43.967	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+28.09.2026 10:57:43.989	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+28.09.2026 11:00:57.908	I	SYSTEM_STATUS	CPU load: 0.8 % / 72
+28.09.2026 11:00:57.940	I	SYSTEM_STATUS	Used memory: 302.67 MB / 454
+28.09.2026 11:00:57.948	I	SYSTEM_STATUS	Handle count: 728 / 1098
+28.09.2026 11:00:57.950	I	SYSTEM_STATUS	C:\: 263208.00 MB / 263208
+28.09.2026 11:00:57.950	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:00:57.950	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.25 MB / 0.2454157
+28.09.2026 11:00:57.954	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:00:57.954	I	SYSTEM_STATUS	GDI object count: 137 / 137
+28.09.2026 11:00:57.954	I	SYSTEM_STATUS	Peak GDI object count: 168 / 168
+28.09.2026 11:00:57.954	I	SYSTEM_STATUS	User object count: 138 / 138
+28.09.2026 11:00:57.954	I	SYSTEM_STATUS	Peak user object count: 161 / 161
+28.09.2026 11:01:24.405	I	SYSTEM	Searching RT-USB-Devices
+28.09.2026 11:01:24.405	I	SYSTEM	No RT-USB-Device found
+28.09.2026 11:01:25.852	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\19904_IPEmotion.ilf
+28.09.2026 11:01:26.091	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start der Verbindung
+28.09.2026 11:01:26.320	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 160):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+28.09.2026 11:01:26.320	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): MEA_0528.ziprt / LOG_0516.zip
+28.09.2026 11:01:43.232	I	CONFIGURATION	Exit configuration
+28.09.2026 11:01:43.232	I	CONFIGURATION	Exit driver
+28.09.2026 11:01:43.236	I	CONFIGURATION	Disconnect net drives
+28.09.2026 11:01:43.237	I	CONFIGURATION	Disconnected net drives
+28.09.2026 11:01:43.237	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+28.09.2026 11:01:43.239	I	CONFIGURATION	Exit done
+28.09.2026 11:01:43.248	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+28.09.2026 11:01:55.654	E	ACQUISITION	PC-3: SetInitValue ipv6Dest1: The selected value has an invalid format.
+28.09.2026 11:01:55.731	I	SYSTEM	Searching RT-USB-Devices
+28.09.2026 11:01:55.732	I	SYSTEM	No RT-USB-Device found
+28.09.2026 11:01:56.257	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start der Verbindung
+28.09.2026 11:01:56.410	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 160):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+28.09.2026 11:01:56.410	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): MEA_0528.ziprt / LOG_0516.zip
+28.09.2026 11:02:17.735	I	VISUAL	InteractiveMessage: M-GATEWAY3:
+The time delay between logger and PC is more than 5s: 122s.
+28.09.2026 11:06:05.666	I	SYSTEM_STATUS	CPU load: 0.2 % / 75
+28.09.2026 11:06:05.672	I	SYSTEM_STATUS	Used memory: 320.67 MB / 481
+28.09.2026 11:06:05.682	I	SYSTEM_STATUS	Handle count: 745 / 1124
+28.09.2026 11:06:05.683	I	SYSTEM_STATUS	C:\: 262988.00 MB / 262988
+28.09.2026 11:06:05.684	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:06:05.685	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:06:05.704	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:06:05.705	I	SYSTEM_STATUS	GDI object count: 158 / 158
+28.09.2026 11:06:05.705	I	SYSTEM_STATUS	Peak GDI object count: 181 / 181
+28.09.2026 11:06:05.705	I	SYSTEM_STATUS	User object count: 219 / 219
+28.09.2026 11:06:05.705	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:06:21.909	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\19904_IPEmotion.ilf
+28.09.2026 11:06:25.368	I	MAL	Update firmware
+28.09.2026 11:10:07.698	I	MAL	Update firmware reboot
+28.09.2026 11:10:57.801	I	MAL	Update firmware reboot connection lost
+28.09.2026 11:11:13.638	I	SYSTEM_STATUS	CPU load: 2.5 % / 40
+28.09.2026 11:11:13.644	I	SYSTEM_STATUS	Used memory: 338.67 MB / 508
+28.09.2026 11:11:13.651	I	SYSTEM_STATUS	Handle count: 826 / 1247
+28.09.2026 11:11:13.652	I	SYSTEM_STATUS	C:\: 262592.00 MB / 262592
+28.09.2026 11:11:13.653	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:11:13.653	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:11:13.664	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:11:13.664	I	SYSTEM_STATUS	GDI object count: 178 / 178
+28.09.2026 11:11:13.664	I	SYSTEM_STATUS	Peak GDI object count: 185 / 185
+28.09.2026 11:11:13.664	I	SYSTEM_STATUS	User object count: 248 / 248
+28.09.2026 11:11:13.664	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:11:31.297	I	MAL	Update firmware reboot connection available
+28.09.2026 11:11:54.550	I	MAL	Update firmware reboot
+28.09.2026 11:12:51.798	I	MAL	Update firmware reboot connection lost
+28.09.2026 11:13:17.300	I	MAL	Update firmware reboot connection available
+28.09.2026 11:13:59.353	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+28.09.2026 11:14:11.403	I	MAL	Update firmware finished
+28.09.2026 11:16:21.365	I	SYSTEM_STATUS	CPU load: 1.8 % / 70
+28.09.2026 11:16:21.372	I	SYSTEM_STATUS	Used memory: 338.00 MB / 507
+28.09.2026 11:16:21.379	I	SYSTEM_STATUS	Handle count: 802 / 1209
+28.09.2026 11:16:21.379	I	SYSTEM_STATUS	C:\: 262579.00 MB / 262579
+28.09.2026 11:16:21.380	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:16:21.380	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:16:21.392	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:16:21.392	I	SYSTEM_STATUS	GDI object count: 166 / 166
+28.09.2026 11:16:21.392	I	SYSTEM_STATUS	Peak GDI object count: 185 / 185
+28.09.2026 11:16:21.393	I	SYSTEM_STATUS	User object count: 218 / 218
+28.09.2026 11:16:21.393	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:21:29.167	I	SYSTEM_STATUS	CPU load: 0.8 % / 32
+28.09.2026 11:21:29.174	I	SYSTEM_STATUS	Used memory: 338.00 MB / 507
+28.09.2026 11:21:29.182	I	SYSTEM_STATUS	Handle count: 799 / 1205
+28.09.2026 11:21:29.182	I	SYSTEM_STATUS	C:\: 262564.00 MB / 262564
+28.09.2026 11:21:29.184	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:21:29.184	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:21:29.217	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:21:29.219	I	SYSTEM_STATUS	GDI object count: 166 / 166
+28.09.2026 11:21:29.219	I	SYSTEM_STATUS	Peak GDI object count: 185 / 185
+28.09.2026 11:21:29.219	I	SYSTEM_STATUS	User object count: 220 / 220
+28.09.2026 11:21:29.219	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:26:36.959	I	SYSTEM_STATUS	CPU load: 0.7 % / 45
+28.09.2026 11:26:36.971	I	SYSTEM_STATUS	Used memory: 338.00 MB / 507
+28.09.2026 11:26:36.979	I	SYSTEM_STATUS	Handle count: 802 / 1198
+28.09.2026 11:26:36.981	I	SYSTEM_STATUS	C:\: 262538.00 MB / 262538
+28.09.2026 11:26:36.983	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:26:36.984	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:26:37.009	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:26:37.009	I	SYSTEM_STATUS	GDI object count: 166 / 166
+28.09.2026 11:26:37.011	I	SYSTEM_STATUS	Peak GDI object count: 185 / 185
+28.09.2026 11:26:37.011	I	SYSTEM_STATUS	User object count: 220 / 220
+28.09.2026 11:26:37.011	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:31:44.934	I	SYSTEM_STATUS	CPU load: 0.3 % / 67
+28.09.2026 11:31:44.941	I	SYSTEM_STATUS	Used memory: 338.00 MB / 507
+28.09.2026 11:31:44.947	I	SYSTEM_STATUS	Handle count: 807 / 1217
+28.09.2026 11:31:44.948	I	SYSTEM_STATUS	C:\: 262397.00 MB / 262397
+28.09.2026 11:31:44.949	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 11:31:44.949	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.22 MB / 0.2172384
+28.09.2026 11:31:44.979	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 11:31:44.980	I	SYSTEM_STATUS	GDI object count: 166 / 166
+28.09.2026 11:31:44.980	I	SYSTEM_STATUS	Peak GDI object count: 185 / 185
+28.09.2026 11:31:44.981	I	SYSTEM_STATUS	User object count: 220 / 220
+28.09.2026 11:31:44.981	I	SYSTEM_STATUS	Peak user object count: 258 / 258
+28.09.2026 11:32:21.188	I	CONFIGURATION	Disconnect net drives
+28.09.2026 11:32:21.189	I	CONFIGURATION	Disconnected net drives
+28.09.2026 11:32:21.203	I	CONFIGURATION	Exit configuration
+28.09.2026 11:32:21.210	I	CONFIGURATION	Exit driver
+28.09.2026 11:32:21.213	I	CONFIGURATION	Disconnect net drives
+28.09.2026 11:32:21.213	I	CONFIGURATION	Disconnected net drives
+28.09.2026 11:32:21.213	I	CONFIGURATION	Exit done
+28.09.2026 11:32:21.213	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+28.09.2026 11:32:21.231	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+28.09.2026 12:15:26.569	I	SYSTEM	V16.02.00 RC Build 4581: Lizenztyp: Developer
+28.09.2026 12:15:26.573	I	SYSTEM	Init GPG started
+28.09.2026 12:15:26.723	I	SYSTEM	Init GPG finished Key found: False IsPublic: False IsPrivate: False KeyId: 
+28.09.2026 12:15:33.023	I	MAL	MAL IPEmotionRT: Version: V09.02.00.72332 Path:C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\MAL\IPEmotionRT
+28.09.2026 12:15:39.156	I	IO	RawDataBackupDirectoryController.InitCapacity(): IrdCount:0  DirSize:0  FreeSize:275241058304
+28.09.2026 12:15:39.157	I	IO	RawDataBackupDirectoryController.ControlCapacity(): IrdCount:0  DirSize:0  FreeSize:275241058304 DeletedFiles:0
+28.09.2026 12:15:39.252	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 12:15:39.290	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 12:15:39.293	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 12:15:39.294	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 12:15:39.302	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 12:15:39.307	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 12:15:39.325	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 12:15:39.346	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 12:15:39.389	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 12:15:39.541	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 12:15:39.608	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 12:15:39.608	E	UOP	Plugin '_META_NOOP' wurde bereits initialisiert
+28.09.2026 12:15:39.610	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 12:15:39.611	E	UOP	Plugin 'Smoothing Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.613	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 12:15:39.613	E	UOP	Plugin 'TimeCorrection Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.614	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 12:15:39.615	E	UOP	Plugin 'Invert Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.624	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 12:15:39.624	E	UOP	Plugin 'Average Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.626	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 12:15:39.626	E	UOP	Plugin 'Rounding Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.627	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 12:15:39.627	E	UOP	Plugin 'ReplaceNoValues Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.629	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 12:15:39.629	E	UOP	Plugin 'Resampling Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.632	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 12:15:39.632	E	UOP	Plugin 'Approximation Plugin' wurde bereits initialisiert
+28.09.2026 12:15:39.639	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 12:15:39.639	E	UOP	Plugin 'PowerCalculation Plugin' wurde bereits initialisiert
+28.09.2026 12:15:41.800	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 12:15:41.803	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 12:15:41.804	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 12:15:41.820	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 12:15:41.838	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 12:15:41.838	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 12:15:41.842	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 12:15:41.848	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 12:15:41.900	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 12:15:41.925	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 12:15:41.935	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 12:15:41.953	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 12:15:41.977	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 12:15:42.066	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 12:15:42.066	E	VEP	Plugin 'Label' wurde bereits initialisiert
+28.09.2026 12:15:42.067	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 12:15:42.067	E	VEP	Plugin 'Bar graph' wurde bereits initialisiert
+28.09.2026 12:15:42.068	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 12:15:42.068	E	VEP	Plugin 'Slide control' wurde bereits initialisiert
+28.09.2026 12:15:42.069	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 12:15:42.069	E	VEP	Plugin 'Analog Plugin' wurde bereits initialisiert
+28.09.2026 12:15:42.070	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 12:15:42.071	E	VEP	Plugin 'Statistical Table' wurde bereits initialisiert
+28.09.2026 12:15:42.071	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 12:15:42.072	E	VEP	Plugin 'Box and Whisker Plot' wurde bereits initialisiert
+28.09.2026 12:15:42.073	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 12:15:42.073	E	VEP	Plugin 'Tachometer Plugin' wurde bereits initialisiert
+28.09.2026 12:15:42.074	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 12:15:42.074	E	VEP	Plugin 'Scatter Chart' wurde bereits initialisiert
+28.09.2026 12:15:42.076	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 12:15:42.077	E	VEP	Plugin 'Characteristics' wurde bereits initialisiert
+28.09.2026 12:15:42.090	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 12:15:42.090	E	VEP	Plugin 'Diagnostics' wurde bereits initialisiert
+28.09.2026 12:15:42.092	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 12:15:42.092	E	VEP	Plugin 'Compass/Directional Display' wurde bereits initialisiert
+28.09.2026 12:15:42.094	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 12:15:42.094	E	VEP	Plugin 'HeatFlow Matrix' wurde bereits initialisiert
+28.09.2026 12:15:42.097	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 12:15:42.098	E	VEP	Plugin 'Mollier Diagram' wurde bereits initialisiert
+28.09.2026 12:15:42.484	I	VISUAL	ActiveFormIndex: 1
+28.09.2026 12:15:44.732	I	ExternalSource	No file for external source defined.
+28.09.2026 12:15:55.434	I	SYSTEM	Searching RT-USB-Devices
+28.09.2026 12:15:55.938	I	SYSTEM	No RT-USB-Device found
+28.09.2026 12:15:56.790	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\32332_IPEmotion.ilf
+28.09.2026 12:15:57.145	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any):  Start der Verbindung
+28.09.2026 12:15:57.182	I	VISUAL	InteractiveMessage: The configuration has been generated with an older IPEmotion version: '2026 R2'. It is possible that this configuration cannot be opened with the older IPEmotion version after saving.
+28.09.2026 12:15:57.326	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 167):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+28.09.2026 12:15:57.326	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): MEA_0528.ziprt / LOG_0516.zip
+28.09.2026 12:16:02.588	I	MAL	Update firmware
+28.09.2026 12:16:09.674	I	MAL	DeleteUpdateFiles:: Update_finished
+28.09.2026 12:20:53.463	I	SYSTEM_STATUS	CPU load: 2.5 % / 54
+28.09.2026 12:20:53.471	I	SYSTEM_STATUS	Used memory: 325.67 MB / 489
+28.09.2026 12:20:53.482	I	SYSTEM_STATUS	Handle count: 855 / 1270
+28.09.2026 12:20:53.483	I	SYSTEM_STATUS	C:\: 262492.00 MB / 262492
+28.09.2026 12:20:53.484	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:20:53.485	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:20:53.514	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:20:53.514	I	SYSTEM_STATUS	GDI object count: 157 / 157
+28.09.2026 12:20:53.515	I	SYSTEM_STATUS	Peak GDI object count: 161 / 161
+28.09.2026 12:20:53.515	I	SYSTEM_STATUS	User object count: 164 / 164
+28.09.2026 12:20:53.515	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:22:57.804	I	MAL	Update firmware reboot
+28.09.2026 12:23:58.457	I	MAL	Update firmware reboot connection lost timeout
+28.09.2026 12:23:58.464	I	MAL	Update firmware reboot connection available
+28.09.2026 12:24:03.990	I	MAL	FTP port 192.168.236.1:21 not open.
+28.09.2026 12:24:28.791	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+28.09.2026 12:24:53.304	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+28.09.2026 12:25:22.221	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+28.09.2026 12:25:46.800	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+28.09.2026 12:25:59.055	I	MAL	Update firmware reboot
+28.09.2026 12:26:01.536	I	SYSTEM_STATUS	CPU load: 2.8 % / 100
+28.09.2026 12:26:01.543	I	SYSTEM_STATUS	Used memory: 326.00 MB / 489
+28.09.2026 12:26:01.550	I	SYSTEM_STATUS	Handle count: 849 / 1281
+28.09.2026 12:26:01.551	I	SYSTEM_STATUS	C:\: 262480.00 MB / 262480
+28.09.2026 12:26:01.552	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:26:01.553	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:26:01.572	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:26:01.573	I	SYSTEM_STATUS	GDI object count: 157 / 157
+28.09.2026 12:26:01.573	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:26:01.574	I	SYSTEM_STATUS	User object count: 165 / 165
+28.09.2026 12:26:01.574	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:26:11.842	I	MAL	Update firmware reboot connection lost
+28.09.2026 12:26:58.349	I	MAL	Update firmware reboot connection available
+28.09.2026 12:27:26.643	I	MAL	Update firmware reboot
+28.09.2026 12:28:20.847	I	MAL	Update firmware reboot connection lost
+28.09.2026 12:28:46.347	I	MAL	Update firmware reboot connection available
+28.09.2026 12:29:30.877	I	MAL	Update firmware finished
+28.09.2026 12:31:09.483	I	SYSTEM_STATUS	CPU load: 1.0 % / 76
+28.09.2026 12:31:09.487	I	SYSTEM_STATUS	Used memory: 326.67 MB / 490
+28.09.2026 12:31:09.495	I	SYSTEM_STATUS	Handle count: 857 / 1291
+28.09.2026 12:31:09.496	I	SYSTEM_STATUS	C:\: 262482.00 MB / 262482
+28.09.2026 12:31:09.499	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:31:09.500	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:31:09.521	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:31:09.522	I	SYSTEM_STATUS	GDI object count: 145 / 145
+28.09.2026 12:31:09.522	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:31:09.522	I	SYSTEM_STATUS	User object count: 134 / 134
+28.09.2026 12:31:09.522	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:36:17.319	I	SYSTEM_STATUS	CPU load: 1.2 % / 36
+28.09.2026 12:36:17.324	I	SYSTEM_STATUS	Used memory: 326.67 MB / 490
+28.09.2026 12:36:17.328	I	SYSTEM_STATUS	Handle count: 839 / 1265
+28.09.2026 12:36:17.328	I	SYSTEM_STATUS	C:\: 262479.00 MB / 262479
+28.09.2026 12:36:17.330	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:36:17.330	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:36:17.338	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:36:17.338	I	SYSTEM_STATUS	GDI object count: 145 / 145
+28.09.2026 12:36:17.338	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:36:17.340	I	SYSTEM_STATUS	User object count: 134 / 134
+28.09.2026 12:36:17.340	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:41:25.129	I	SYSTEM_STATUS	CPU load: 1.3 % / 41
+28.09.2026 12:41:25.135	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 12:41:25.138	I	SYSTEM_STATUS	Handle count: 739 / 1115
+28.09.2026 12:41:25.138	I	SYSTEM_STATUS	C:\: 262353.00 MB / 262353
+28.09.2026 12:41:25.138	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:41:25.138	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:41:25.163	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:41:25.163	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 12:41:25.163	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:41:25.163	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 12:41:25.163	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:46:32.875	I	SYSTEM_STATUS	CPU load: 1.0 % / 39
+28.09.2026 12:46:32.880	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 12:46:32.889	I	SYSTEM_STATUS	Handle count: 743 / 1121
+28.09.2026 12:46:32.889	I	SYSTEM_STATUS	C:\: 262351.00 MB / 262351
+28.09.2026 12:46:32.891	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:46:32.891	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:46:32.904	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:46:32.904	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 12:46:32.906	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:46:32.906	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 12:46:32.906	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:51:40.481	I	SYSTEM_STATUS	CPU load: 0.7 % / 0
+28.09.2026 12:51:40.494	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 12:51:40.504	I	SYSTEM_STATUS	Handle count: 743 / 1120
+28.09.2026 12:51:40.506	I	SYSTEM_STATUS	C:\: 262143.00 MB / 262143
+28.09.2026 12:51:40.508	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:51:40.508	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:51:40.527	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:51:40.527	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 12:51:40.527	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:51:40.527	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 12:51:40.527	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 12:56:48.314	I	SYSTEM_STATUS	CPU load: 1.0 % / 100
+28.09.2026 12:56:48.324	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 12:56:48.333	I	SYSTEM_STATUS	Handle count: 750 / 1131
+28.09.2026 12:56:48.333	I	SYSTEM_STATUS	C:\: 262168.00 MB / 262168
+28.09.2026 12:56:48.335	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 12:56:48.335	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 12:56:48.364	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 12:56:48.364	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 12:56:48.368	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 12:56:48.368	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 12:56:48.370	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:01:56.159	I	SYSTEM_STATUS	CPU load: 0.8 % / 78
+28.09.2026 13:01:56.168	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 13:01:56.174	I	SYSTEM_STATUS	Handle count: 748 / 1128
+28.09.2026 13:01:56.176	I	SYSTEM_STATUS	C:\: 262167.00 MB / 262167
+28.09.2026 13:01:56.176	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:01:56.176	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:01:56.188	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:01:56.188	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 13:01:56.188	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:01:56.188	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 13:01:56.188	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:07:03.770	I	SYSTEM_STATUS	CPU load: 0.5 % / 45
+28.09.2026 13:07:03.778	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 13:07:03.786	I	SYSTEM_STATUS	Handle count: 754 / 1137
+28.09.2026 13:07:03.786	I	SYSTEM_STATUS	C:\: 262165.00 MB / 262165
+28.09.2026 13:07:03.788	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:07:03.788	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:07:03.825	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:07:03.827	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 13:07:03.827	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:07:03.827	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 13:07:03.827	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:12:11.317	I	SYSTEM_STATUS	CPU load: 0.5 % / 49
+28.09.2026 13:12:11.331	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 13:12:11.340	I	SYSTEM_STATUS	Handle count: 753 / 1136
+28.09.2026 13:12:11.342	I	SYSTEM_STATUS	C:\: 262157.00 MB / 262157
+28.09.2026 13:12:11.342	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:12:11.344	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:12:11.362	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:12:11.362	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 13:12:11.362	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:12:11.365	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 13:12:11.365	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:17:19.165	I	SYSTEM_STATUS	CPU load: 1.2 % / 13
+28.09.2026 13:17:19.177	I	SYSTEM_STATUS	Used memory: 314.00 MB / 471
+28.09.2026 13:17:19.187	I	SYSTEM_STATUS	Handle count: 735 / 1109
+28.09.2026 13:17:19.188	I	SYSTEM_STATUS	C:\: 262148.00 MB / 262148
+28.09.2026 13:17:19.189	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:17:19.190	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:17:19.228	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:17:19.230	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 13:17:19.231	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:17:19.231	I	SYSTEM_STATUS	User object count: 131 / 131
+28.09.2026 13:17:19.232	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:22:27.518	I	SYSTEM_STATUS	CPU load: 1.2 % / 45
+28.09.2026 13:22:27.531	I	SYSTEM_STATUS	Used memory: 313.33 MB / 470
+28.09.2026 13:22:27.531	I	SYSTEM_STATUS	Handle count: 746 / 1125
+28.09.2026 13:22:27.531	I	SYSTEM_STATUS	C:\: 262143.00 MB / 262143
+28.09.2026 13:22:27.531	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:22:27.531	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:22:27.559	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:22:27.563	I	SYSTEM_STATUS	GDI object count: 127 / 127
+28.09.2026 13:22:27.563	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:22:27.563	I	SYSTEM_STATUS	User object count: 133 / 133
+28.09.2026 13:22:27.563	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:27:35.679	I	SYSTEM_STATUS	CPU load: 3.3 % / 37
+28.09.2026 13:27:35.685	I	SYSTEM_STATUS	Used memory: 313.33 MB / 470
+28.09.2026 13:27:35.690	I	SYSTEM_STATUS	Handle count: 738 / 1113
+28.09.2026 13:27:35.690	I	SYSTEM_STATUS	C:\: 262146.00 MB / 262146
+28.09.2026 13:27:35.691	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:27:35.691	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1878576
+28.09.2026 13:27:35.707	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:27:35.707	I	SYSTEM_STATUS	GDI object count: 129 / 129
+28.09.2026 13:27:35.707	I	SYSTEM_STATUS	Peak GDI object count: 164 / 164
+28.09.2026 13:27:35.707	I	SYSTEM_STATUS	User object count: 137 / 137
+28.09.2026 13:27:35.707	I	SYSTEM_STATUS	Peak user object count: 179 / 179
+28.09.2026 13:27:51.724	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\32332_IPEmotion.ilf
+28.09.2026 13:27:52.741	I	VISUAL	InteractiveMessage: The configuration has been generated with an older IPEmotion version: '2026 R2'. It is possible that this configuration cannot be opened with the older IPEmotion version after saving.
+28.09.2026 13:28:07.224	W	FormOptions	DataPluginInfo::ReadOptionsDeclaration(): Die Datei C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\Options.Declaration.Export.Gpx.xml existiert nicht.
+28.09.2026 13:28:21.023	I	CONFIGURATION	Disconnect net drives
+28.09.2026 13:28:21.024	I	CONFIGURATION	Disconnected net drives
+28.09.2026 13:28:21.024	I	CONFIGURATION	Disconnect net drives
+28.09.2026 13:28:21.025	I	CONFIGURATION	Disconnected net drives
+28.09.2026 13:28:53.192	I	VISUAL	InteractiveMessage: IPETRONIK X:
+CAN modules with firmware versions older than V04.XX.XX cannot be detected.
+28.09.2026 13:31:11.195	I	SYSTEM	V16.02.00 RC Build 4581: Lizenztyp: Developer
+28.09.2026 13:31:11.198	I	SYSTEM	Init GPG started
+28.09.2026 13:31:11.365	I	SYSTEM	Init GPG finished Key found: False IsPublic: False IsPrivate: False KeyId: 
+28.09.2026 13:31:14.621	I	MAL	MAL Protocols: Version: V03.16.00.99326 Path:C:\Program Files\IPETRONIK\IPEmotion PlugIn Protocols V03.16.00 RC Build 99326\
+28.09.2026 13:31:15.602	I	MAL	MAL IENA: Version: V01.00.00.98967 Path:C:\Program Files\IPETRONIK\IPEmotion PlugIn IENA V01.00.00 Beta Build 98967\
+28.09.2026 13:31:15.995	I	IO	RawDataBackupDirectoryController.InitCapacity(): IrdCount:0  DirSize:0  FreeSize:274841210880
+28.09.2026 13:31:15.998	I	IO	RawDataBackupDirectoryController.ControlCapacity(): IrdCount:0  DirSize:0  FreeSize:274841210880 DeletedFiles:0
+28.09.2026 13:31:22.705	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 13:31:22.738	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 13:31:22.760	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 13:31:22.761	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 13:31:22.761	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 13:31:22.763	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 13:31:22.765	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 13:31:22.775	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 13:31:22.899	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 13:31:23.401	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 13:31:23.468	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+28.09.2026 13:31:23.468	E	UOP	Plugin '_META_NOOP' wurde bereits initialisiert
+28.09.2026 13:31:23.470	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+28.09.2026 13:31:23.470	E	UOP	Plugin 'ReplaceNoValues Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.472	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+28.09.2026 13:31:23.472	E	UOP	Plugin 'Invert Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.473	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+28.09.2026 13:31:23.474	E	UOP	Plugin 'Rounding Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.475	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+28.09.2026 13:31:23.475	E	UOP	Plugin 'Resampling Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.476	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+28.09.2026 13:31:23.476	E	UOP	Plugin 'Average Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.479	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+28.09.2026 13:31:23.479	E	UOP	Plugin 'Smoothing Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.481	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+28.09.2026 13:31:23.482	E	UOP	Plugin 'TimeCorrection Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.494	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+28.09.2026 13:31:23.495	E	UOP	Plugin 'Approximation Plugin' wurde bereits initialisiert
+28.09.2026 13:31:23.517	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+28.09.2026 13:31:23.517	E	UOP	Plugin 'PowerCalculation Plugin' wurde bereits initialisiert
+28.09.2026 13:31:25.595	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 13:31:25.613	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 13:31:25.617	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 13:31:25.625	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 13:31:25.628	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 13:31:25.658	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 13:31:25.680	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 13:31:25.739	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 13:31:25.741	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 13:31:25.825	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 13:31:25.862	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 13:31:25.862	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 13:31:25.915	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 13:31:26.002	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+28.09.2026 13:31:26.002	E	VEP	Plugin 'Statistical Table' wurde bereits initialisiert
+28.09.2026 13:31:26.003	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+28.09.2026 13:31:26.003	E	VEP	Plugin 'Analog Plugin' wurde bereits initialisiert
+28.09.2026 13:31:26.004	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+28.09.2026 13:31:26.005	E	VEP	Plugin 'Bar graph' wurde bereits initialisiert
+28.09.2026 13:31:26.005	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+28.09.2026 13:31:26.005	E	VEP	Plugin 'Slide control' wurde bereits initialisiert
+28.09.2026 13:31:26.007	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+28.09.2026 13:31:26.007	E	VEP	Plugin 'Tachometer Plugin' wurde bereits initialisiert
+28.09.2026 13:31:26.008	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+28.09.2026 13:31:26.009	E	VEP	Plugin 'Label' wurde bereits initialisiert
+28.09.2026 13:31:26.010	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+28.09.2026 13:31:26.010	E	VEP	Plugin 'Box and Whisker Plot' wurde bereits initialisiert
+28.09.2026 13:31:26.011	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+28.09.2026 13:31:26.011	E	VEP	Plugin 'Scatter Chart' wurde bereits initialisiert
+28.09.2026 13:31:26.013	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+28.09.2026 13:31:26.013	E	VEP	Plugin 'Compass/Directional Display' wurde bereits initialisiert
+28.09.2026 13:31:26.015	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+28.09.2026 13:31:26.015	E	VEP	Plugin 'Diagnostics' wurde bereits initialisiert
+28.09.2026 13:31:26.017	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+28.09.2026 13:31:26.017	E	VEP	Plugin 'Characteristics' wurde bereits initialisiert
+28.09.2026 13:31:26.022	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+28.09.2026 13:31:26.022	E	VEP	Plugin 'Mollier Diagram' wurde bereits initialisiert
+28.09.2026 13:31:26.024	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+28.09.2026 13:31:26.024	E	VEP	Plugin 'HeatFlow Matrix' wurde bereits initialisiert
+28.09.2026 13:31:26.750	I	VISUAL	ActiveFormIndex: 8
+28.09.2026 13:31:32.097	I	ExternalSource	No file for external source defined.
+28.09.2026 13:31:37.664	I	CONFIGURATION	Exit configuration
+28.09.2026 13:31:37.671	I	CONFIGURATION	Exit driver
+28.09.2026 13:31:39.570	I	CONFIGURATION	Disconnect net drives
+28.09.2026 13:31:39.572	I	CONFIGURATION	Disconnected net drives
+28.09.2026 13:31:39.573	I	CONFIGURATION	Exit done
+28.09.2026 13:31:39.579	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any):  Start
+28.09.2026 13:31:39.580	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any, Disconnected):  Drive entweder nicht verbunden oder Verbindung nicht von diesem Prozess hergestellt
+28.09.2026 13:31:46.418	E	ACQUISITION	IenaOutputParameterP-1: SetInitValue parameterType: The value has 1 instead of the minimum of 2 characters.
+28.09.2026 13:32:11.009	E	ACQUISITION	IenaOutputParameterP-1: SetInitValue parameterType: The value has 1 instead of the minimum of 2 characters.
+28.09.2026 13:32:43.854	I	SYSTEM_STATUS	CPU load: 11.8 % / 64
+28.09.2026 13:32:43.860	I	SYSTEM_STATUS	Used memory: 371.00 MB / 555
+28.09.2026 13:32:43.866	I	SYSTEM_STATUS	Handle count: 873 / 1314
+28.09.2026 13:32:43.867	I	SYSTEM_STATUS	C:\: 262036.00 MB / 262036
+28.09.2026 13:32:43.868	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:32:43.868	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1855688
+28.09.2026 13:32:43.883	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:32:43.883	I	SYSTEM_STATUS	GDI object count: 558 / 558
+28.09.2026 13:32:43.883	I	SYSTEM_STATUS	Peak GDI object count: 573 / 573
+28.09.2026 13:32:43.883	I	SYSTEM_STATUS	User object count: 386 / 386
+28.09.2026 13:32:43.884	I	SYSTEM_STATUS	Peak user object count: 405 / 405
+28.09.2026 13:32:47.205	E	ACQUISITION	IenaInputParameterP-1: SetInitValue parameterType: The value has 1 instead of the minimum of 2 characters.
+28.09.2026 13:33:27.297	W	ACQUISITION	ConfigurationChangedEventsSuspendedCounter < 0
+28.09.2026 13:33:43.245	I	CONFIGURATION	Paste-Parameter IenaSendKeyP-2-keyId: IPETRONIK.Shared.Base.ErrorHandling.ParameterValueInvalidException: The value "1" of property "keyId" is already assigned to another node
+   at IPETRONIK.IPEmotion.Acquisition.MalPool.MalParameter.SetParameterValue(IMalNodeIPEmotion ipeNode, Object newValue)
+   at IPETRONIK.IPEmotion.Acquisition.Model.MalNode.PasteParameter(String parameterName, Object newValue)
+28.09.2026 13:33:46.757	I	CONFIGURATION	Paste-Parameter IenaSendKeyP-2-keyId: IPETRONIK.Shared.Base.ErrorHandling.ParameterValueInvalidException: The value "1" of property "keyId" is already assigned to another node
+   at IPETRONIK.IPEmotion.Acquisition.MalPool.MalParameter.SetParameterValue(IMalNodeIPEmotion ipeNode, Object newValue)
+   at IPETRONIK.IPEmotion.Acquisition.Model.MalNode.PasteParameter(String parameterName, Object newValue)
+28.09.2026 13:33:53.008	I	CONFIGURATION	Exit configuration
+28.09.2026 13:33:53.021	I	CONFIGURATION	Exit driver
+28.09.2026 13:33:53.024	I	CONFIGURATION	Disconnect net drives
+28.09.2026 13:33:53.026	I	CONFIGURATION	Disconnected net drives
+28.09.2026 13:33:53.026	I	CONFIGURATION	Exit done
+28.09.2026 13:33:53.026	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+28.09.2026 13:33:53.043	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+28.09.2026 13:33:54.823	I	SYSTEM	Searching RT-USB-Devices
+28.09.2026 13:33:54.823	I	SYSTEM	No RT-USB-Device found
+28.09.2026 13:33:57.640	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\32332_IPEmotion.ilf
+28.09.2026 13:33:57.810	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start der Verbindung
+28.09.2026 13:33:57.989	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 169):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+28.09.2026 13:33:57.990	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): MEA_0528.ziprt / LOG_0516.zip
+28.09.2026 13:33:58.610	I	VISUAL	InteractiveMessage: The configuration has been generated with an older IPEmotion version: '2026 R2'. It is possible that this configuration cannot be opened with the older IPEmotion version after saving.
+28.09.2026 13:34:18.391	I	VISUAL	InteractiveMessage: IPETRONIK X:
+CAN modules with firmware versions older than V04.XX.XX cannot be detected.
+28.09.2026 13:34:56.935	E	ACQUISITION	IenaOutputParameterP-1: SetInitValue parameterType: The value has 1 instead of the minimum of 2 characters.
+28.09.2026 13:36:43.410	I	SYSTEM_STATUS	CPU load: 1.3 % / 33
+28.09.2026 13:36:43.434	I	SYSTEM_STATUS	Used memory: 254.00 MB / 381
+28.09.2026 13:36:43.440	I	SYSTEM_STATUS	Handle count: 603 / 910
+28.09.2026 13:36:43.441	I	SYSTEM_STATUS	C:\: 261976.00 MB / 261976
+28.09.2026 13:36:43.442	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:36:43.442	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1855383
+28.09.2026 13:36:43.491	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:36:43.503	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 13:36:43.503	I	SYSTEM_STATUS	Peak GDI object count: 211 / 211
+28.09.2026 13:36:43.503	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 13:36:43.503	I	SYSTEM_STATUS	Peak user object count: 240 / 240
+28.09.2026 13:36:45.850	I	VISUAL	InteractiveMessage: M-GATEWAY3:
+The time delay between logger and PC is more than 5s: 122s.
+28.09.2026 13:37:51.957	I	SYSTEM_STATUS	CPU load: 2.0 % / 38
+28.09.2026 13:37:51.973	I	SYSTEM_STATUS	Used memory: 392.67 MB / 589
+28.09.2026 13:37:51.982	I	SYSTEM_STATUS	Handle count: 914 / 1377
+28.09.2026 13:37:51.982	I	SYSTEM_STATUS	C:\: 261976.00 MB / 261976
+28.09.2026 13:37:51.984	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:37:51.984	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1867561
+28.09.2026 13:37:52.013	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:37:52.013	I	SYSTEM_STATUS	GDI object count: 680 / 680
+28.09.2026 13:37:52.013	I	SYSTEM_STATUS	Peak GDI object count: 695 / 695
+28.09.2026 13:37:52.014	I	SYSTEM_STATUS	User object count: 501 / 501
+28.09.2026 13:37:52.014	I	SYSTEM_STATUS	Peak user object count: 525 / 525
+28.09.2026 13:41:51.722	I	SYSTEM_STATUS	CPU load: 0.3 % / 37
+28.09.2026 13:41:51.731	I	SYSTEM_STATUS	Used memory: 254.67 MB / 382
+28.09.2026 13:41:51.739	I	SYSTEM_STATUS	Handle count: 612 / 924
+28.09.2026 13:41:51.740	I	SYSTEM_STATUS	C:\: 261974.00 MB / 261974
+28.09.2026 13:41:51.741	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:41:51.742	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1867561
+28.09.2026 13:41:51.763	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:41:51.764	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 13:41:51.764	I	SYSTEM_STATUS	Peak GDI object count: 211 / 211
+28.09.2026 13:41:51.765	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 13:41:51.765	I	SYSTEM_STATUS	Peak user object count: 240 / 240
+28.09.2026 13:43:00.276	I	SYSTEM_STATUS	CPU load: 0.5 % / 28
+28.09.2026 13:43:00.288	I	SYSTEM_STATUS	Used memory: 392.67 MB / 589
+28.09.2026 13:43:00.296	I	SYSTEM_STATUS	Handle count: 904 / 1362
+28.09.2026 13:43:00.297	I	SYSTEM_STATUS	C:\: 261972.00 MB / 261972
+28.09.2026 13:43:00.298	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:43:00.300	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1867561
+28.09.2026 13:43:00.324	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:43:00.325	I	SYSTEM_STATUS	GDI object count: 680 / 680
+28.09.2026 13:43:00.325	I	SYSTEM_STATUS	Peak GDI object count: 695 / 695
+28.09.2026 13:43:00.326	I	SYSTEM_STATUS	User object count: 498 / 498
+28.09.2026 13:43:00.326	I	SYSTEM_STATUS	Peak user object count: 525 / 525
+28.09.2026 13:47:00.460	I	SYSTEM_STATUS	CPU load: 1.0 % / 86
+28.09.2026 13:47:00.471	I	SYSTEM_STATUS	Used memory: 254.67 MB / 382
+28.09.2026 13:47:00.481	I	SYSTEM_STATUS	Handle count: 609 / 919
+28.09.2026 13:47:00.481	I	SYSTEM_STATUS	C:\: 261967.00 MB / 261967
+28.09.2026 13:47:00.482	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:47:00.483	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1867561
+28.09.2026 13:47:00.509	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:47:00.510	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 13:47:00.510	I	SYSTEM_STATUS	Peak GDI object count: 211 / 211
+28.09.2026 13:47:00.510	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 13:47:00.510	I	SYSTEM_STATUS	Peak user object count: 240 / 240
+28.09.2026 13:48:08.631	I	SYSTEM_STATUS	CPU load: 13.2 % / 76
+28.09.2026 13:48:08.640	I	SYSTEM_STATUS	Used memory: 386.00 MB / 570
+28.09.2026 13:48:08.649	I	SYSTEM_STATUS	Handle count: 898 / 1337
+28.09.2026 13:48:08.651	I	SYSTEM_STATUS	C:\: 261966.00 MB / 261966
+28.09.2026 13:48:08.652	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:48:08.652	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1874952
+28.09.2026 13:48:08.667	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:48:08.668	I	SYSTEM_STATUS	GDI object count: 670 / 670
+28.09.2026 13:48:08.668	I	SYSTEM_STATUS	Peak GDI object count: 697 / 697
+28.09.2026 13:48:08.668	I	SYSTEM_STATUS	User object count: 501 / 501
+28.09.2026 13:48:08.668	I	SYSTEM_STATUS	Peak user object count: 525 / 525
+28.09.2026 13:49:34.987	I	VISUAL	InteractiveMessage: M-GATEWAY3:
+The time delay between logger and PC is more than 5s: 122s.
+28.09.2026 13:50:06.066	I	VISUAL	InteractiveMessage: M-GATEWAY3:
+The time delay between logger and PC is more than 5s: 122s.
+28.09.2026 13:52:10.051	I	SYSTEM_STATUS	CPU load: 4.8 % / 45
+28.09.2026 13:52:10.056	I	SYSTEM_STATUS	Used memory: 254.67 MB / 383
+28.09.2026 13:52:10.063	I	SYSTEM_STATUS	Handle count: 614 / 930
+28.09.2026 13:52:10.063	I	SYSTEM_STATUS	C:\: 261962.00 MB / 261962
+28.09.2026 13:52:10.063	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:52:10.065	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 13:52:10.075	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:52:10.075	I	SYSTEM_STATUS	GDI object count: 214 / 211
+28.09.2026 13:52:10.075	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 13:52:10.075	I	SYSTEM_STATUS	User object count: 253 / 253
+28.09.2026 13:52:10.076	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 13:53:17.452	I	SYSTEM_STATUS	CPU load: 1.7 % / 61
+28.09.2026 13:53:17.467	I	SYSTEM_STATUS	Used memory: 406.00 MB / 609
+28.09.2026 13:53:17.482	I	SYSTEM_STATUS	Handle count: 903 / 1360
+28.09.2026 13:53:17.483	I	SYSTEM_STATUS	C:\: 261956.00 MB / 261956
+28.09.2026 13:53:17.483	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:53:17.485	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 13:53:17.510	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:53:17.512	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 13:53:17.512	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 13:53:17.512	I	SYSTEM_STATUS	User object count: 575 / 575
+28.09.2026 13:53:17.513	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 13:57:18.558	I	SYSTEM_STATUS	CPU load: 1.5 % / 34
+28.09.2026 13:57:18.567	I	SYSTEM_STATUS	Used memory: 255.33 MB / 383
+28.09.2026 13:57:18.574	I	SYSTEM_STATUS	Handle count: 605 / 914
+28.09.2026 13:57:18.575	I	SYSTEM_STATUS	C:\: 261954.00 MB / 261954
+28.09.2026 13:57:18.577	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:57:18.578	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 13:57:18.597	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:57:18.598	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 13:57:18.598	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 13:57:18.598	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 13:57:18.598	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 13:58:26.153	I	SYSTEM_STATUS	CPU load: 1.3 % / 51
+28.09.2026 13:58:26.164	I	SYSTEM_STATUS	Used memory: 406.00 MB / 609
+28.09.2026 13:58:26.174	I	SYSTEM_STATUS	Handle count: 903 / 1360
+28.09.2026 13:58:26.175	I	SYSTEM_STATUS	C:\: 261953.00 MB / 261953
+28.09.2026 13:58:26.176	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 13:58:26.176	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 13:58:26.227	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 13:58:26.229	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 13:58:26.230	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 13:58:26.231	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 13:58:26.231	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:02:27.997	I	SYSTEM_STATUS	CPU load: 1.8 % / 56
+28.09.2026 14:02:28.011	I	SYSTEM_STATUS	Used memory: 247.33 MB / 371
+28.09.2026 14:02:28.025	I	SYSTEM_STATUS	Handle count: 603 / 897
+28.09.2026 14:02:28.027	I	SYSTEM_STATUS	C:\: 261727.00 MB / 261727
+28.09.2026 14:02:28.029	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:02:28.030	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:02:28.063	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:02:28.066	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:02:28.067	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:02:28.068	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:02:28.069	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:03:35.923	I	SYSTEM_STATUS	CPU load: 0.8 % / 26
+28.09.2026 14:03:35.939	I	SYSTEM_STATUS	Used memory: 400.00 MB / 600
+28.09.2026 14:03:35.948	I	SYSTEM_STATUS	Handle count: 911 / 1373
+28.09.2026 14:03:35.949	I	SYSTEM_STATUS	C:\: 261726.00 MB / 261726
+28.09.2026 14:03:35.949	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:03:35.950	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:03:35.978	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:03:35.980	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:03:35.982	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:03:35.982	I	SYSTEM_STATUS	User object count: 576 / 576
+28.09.2026 14:03:35.983	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:07:38.288	I	SYSTEM_STATUS	CPU load: 1.3 % / 83
+28.09.2026 14:07:38.307	I	SYSTEM_STATUS	Used memory: 166.67 MB / 250
+28.09.2026 14:07:38.317	I	SYSTEM_STATUS	Handle count: 613 / 925
+28.09.2026 14:07:38.319	I	SYSTEM_STATUS	C:\: 261452.00 MB / 261452
+28.09.2026 14:07:38.320	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:07:38.321	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:07:38.349	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:07:38.351	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:07:38.352	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:07:38.354	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:07:38.354	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:08:46.355	I	SYSTEM_STATUS	CPU load: 2.2 % / 52
+28.09.2026 14:08:46.375	I	SYSTEM_STATUS	Used memory: 390.00 MB / 585
+28.09.2026 14:08:46.394	I	SYSTEM_STATUS	Handle count: 903 / 1361
+28.09.2026 14:08:46.396	I	SYSTEM_STATUS	C:\: 261451.00 MB / 261451
+28.09.2026 14:08:46.397	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:08:46.398	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:08:46.438	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:08:46.440	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:08:46.441	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:08:46.442	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:08:46.443	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:12:49.058	I	SYSTEM_STATUS	CPU load: 1.0 % / 31
+28.09.2026 14:12:49.077	I	SYSTEM_STATUS	Used memory: 163.33 MB / 245
+28.09.2026 14:12:49.097	I	SYSTEM_STATUS	Handle count: 605 / 913
+28.09.2026 14:12:49.099	I	SYSTEM_STATUS	C:\: 264609.00 MB / 264609
+28.09.2026 14:12:49.104	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:12:49.107	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:12:49.159	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:12:49.161	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:12:49.162	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:12:49.162	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:12:49.163	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:13:57.195	I	SYSTEM_STATUS	CPU load: 1.5 % / 38
+28.09.2026 14:13:57.213	I	SYSTEM_STATUS	Used memory: 359.33 MB / 539
+28.09.2026 14:13:57.230	I	SYSTEM_STATUS	Handle count: 895 / 1349
+28.09.2026 14:13:57.232	I	SYSTEM_STATUS	C:\: 264608.00 MB / 264608
+28.09.2026 14:13:57.235	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:13:57.236	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:13:57.276	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:13:57.277	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:13:57.278	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:13:57.279	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:13:57.280	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:17:59.339	I	SYSTEM_STATUS	CPU load: 1.3 % / 87
+28.09.2026 14:17:59.358	I	SYSTEM_STATUS	Used memory: 161.33 MB / 242
+28.09.2026 14:17:59.369	I	SYSTEM_STATUS	Handle count: 599 / 905
+28.09.2026 14:17:59.371	I	SYSTEM_STATUS	C:\: 264599.00 MB / 264599
+28.09.2026 14:17:59.372	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:17:59.374	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:17:59.402	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:17:59.403	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:17:59.404	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:17:59.405	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:17:59.405	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:19:07.690	I	SYSTEM_STATUS	CPU load: 2.0 % / 78
+28.09.2026 14:19:07.705	I	SYSTEM_STATUS	Used memory: 356.67 MB / 535
+28.09.2026 14:19:07.723	I	SYSTEM_STATUS	Handle count: 898 / 1353
+28.09.2026 14:19:07.724	I	SYSTEM_STATUS	C:\: 264598.00 MB / 264598
+28.09.2026 14:19:07.726	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:19:07.727	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:19:07.757	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:19:07.758	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:19:07.758	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:19:07.758	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:19:07.759	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:23:08.470	I	SYSTEM_STATUS	CPU load: 0.8 % / 66
+28.09.2026 14:23:08.482	I	SYSTEM_STATUS	Used memory: 156.67 MB / 235
+28.09.2026 14:23:08.495	I	SYSTEM_STATUS	Handle count: 599 / 905
+28.09.2026 14:23:08.497	I	SYSTEM_STATUS	C:\: 264578.00 MB / 264578
+28.09.2026 14:23:08.498	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:23:08.498	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:23:08.532	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:23:08.534	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:23:08.536	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:23:08.537	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:23:08.538	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:24:16.372	I	SYSTEM_STATUS	CPU load: 1.0 % / 46
+28.09.2026 14:24:16.383	I	SYSTEM_STATUS	Used memory: 245.33 MB / 368
+28.09.2026 14:24:16.392	I	SYSTEM_STATUS	Handle count: 898 / 1353
+28.09.2026 14:24:16.393	I	SYSTEM_STATUS	C:\: 264577.00 MB / 264577
+28.09.2026 14:24:16.395	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:24:16.396	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:24:16.423	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:24:16.424	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:24:16.424	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:24:16.425	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:24:16.425	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:28:17.107	I	SYSTEM_STATUS	CPU load: 1.2 % / 40
+28.09.2026 14:28:17.115	I	SYSTEM_STATUS	Used memory: 144.67 MB / 217
+28.09.2026 14:28:17.122	I	SYSTEM_STATUS	Handle count: 599 / 905
+28.09.2026 14:28:17.124	I	SYSTEM_STATUS	C:\: 264450.00 MB / 264450
+28.09.2026 14:28:17.124	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:28:17.124	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:28:17.151	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:28:17.153	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:28:17.153	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:28:17.153	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:28:17.153	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:29:24.703	I	SYSTEM_STATUS	CPU load: 1.2 % / 28
+28.09.2026 14:29:24.712	I	SYSTEM_STATUS	Used memory: 144.00 MB / 216
+28.09.2026 14:29:24.721	I	SYSTEM_STATUS	Handle count: 904 / 1362
+28.09.2026 14:29:24.722	I	SYSTEM_STATUS	C:\: 264449.00 MB / 264449
+28.09.2026 14:29:24.722	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:29:24.722	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:29:24.766	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:29:24.766	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:29:24.766	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:29:24.766	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:29:24.772	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:33:26.267	I	SYSTEM_STATUS	CPU load: 0.5 % / 47
+28.09.2026 14:33:26.282	I	SYSTEM_STATUS	Used memory: 198.67 MB / 298
+28.09.2026 14:33:26.291	I	SYSTEM_STATUS	Handle count: 599 / 905
+28.09.2026 14:33:26.292	I	SYSTEM_STATUS	C:\: 264033.00 MB / 264033
+28.09.2026 14:33:26.294	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:33:26.295	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:33:26.316	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:33:26.316	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:33:26.317	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:33:26.317	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:33:26.318	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:34:34.285	I	SYSTEM_STATUS	CPU load: 1.8 % / 26
+28.09.2026 14:34:34.300	I	SYSTEM_STATUS	Used memory: 140.00 MB / 210
+28.09.2026 14:34:34.315	I	SYSTEM_STATUS	Handle count: 909 / 1369
+28.09.2026 14:34:34.316	I	SYSTEM_STATUS	C:\: 264026.00 MB / 264026
+28.09.2026 14:34:34.318	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:34:34.318	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:34:34.353	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:34:34.355	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:34:34.356	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:34:34.357	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 14:34:34.358	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:38:35.485	I	SYSTEM_STATUS	CPU load: 0.8 % / 71
+28.09.2026 14:38:35.499	I	SYSTEM_STATUS	Used memory: 198.67 MB / 298
+28.09.2026 14:38:35.505	I	SYSTEM_STATUS	Handle count: 597 / 901
+28.09.2026 14:38:35.505	I	SYSTEM_STATUS	C:\: 263815.00 MB / 263815
+28.09.2026 14:38:35.505	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:38:35.505	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:38:35.511	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:38:35.511	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:38:35.511	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:38:35.511	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:38:35.511	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:39:43.084	I	SYSTEM_STATUS	CPU load: 1.3 % / 0
+28.09.2026 14:39:43.100	I	SYSTEM_STATUS	Used memory: 138.00 MB / 207
+28.09.2026 14:39:43.100	I	SYSTEM_STATUS	Handle count: 906 / 1369
+28.09.2026 14:39:43.100	I	SYSTEM_STATUS	C:\: 263814.00 MB / 263814
+28.09.2026 14:39:43.100	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:39:43.100	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:39:43.115	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:39:43.115	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:39:43.131	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:39:43.134	I	SYSTEM_STATUS	User object count: 575 / 575
+28.09.2026 14:39:43.136	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:43:43.337	I	SYSTEM_STATUS	CPU load: 1.3 % / 41
+28.09.2026 14:43:43.348	I	SYSTEM_STATUS	Used memory: 199.33 MB / 299
+28.09.2026 14:43:43.356	I	SYSTEM_STATUS	Handle count: 605 / 913
+28.09.2026 14:43:43.356	I	SYSTEM_STATUS	C:\: 263814.00 MB / 263814
+28.09.2026 14:43:43.358	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:43:43.358	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:43:43.373	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:43:43.373	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:43:43.373	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:43:43.373	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:43:43.373	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:44:51.071	I	SYSTEM_STATUS	CPU load: 0.7 % / 98
+28.09.2026 14:44:51.103	I	SYSTEM_STATUS	Used memory: 138.00 MB / 207
+28.09.2026 14:44:51.119	I	SYSTEM_STATUS	Handle count: 900 / 1356
+28.09.2026 14:44:51.119	I	SYSTEM_STATUS	C:\: 263814.00 MB / 263814
+28.09.2026 14:44:51.119	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:44:51.119	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:44:51.155	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:44:51.155	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:44:51.155	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:44:51.155	I	SYSTEM_STATUS	User object count: 575 / 575
+28.09.2026 14:44:51.155	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:48:51.224	I	SYSTEM_STATUS	CPU load: 1.7 % / 49
+28.09.2026 14:48:51.235	I	SYSTEM_STATUS	Used memory: 199.33 MB / 299
+28.09.2026 14:48:51.244	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 14:48:51.246	I	SYSTEM_STATUS	C:\: 263815.00 MB / 263815
+28.09.2026 14:48:51.248	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:48:51.248	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:48:51.264	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:48:51.264	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:48:51.264	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:48:51.264	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:48:51.264	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:49:59.080	I	SYSTEM_STATUS	CPU load: 1.2 % / 99
+28.09.2026 14:49:59.096	I	SYSTEM_STATUS	Used memory: 138.00 MB / 207
+28.09.2026 14:49:59.096	I	SYSTEM_STATUS	Handle count: 913 / 1376
+28.09.2026 14:49:59.096	I	SYSTEM_STATUS	C:\: 263815.00 MB / 263815
+28.09.2026 14:49:59.096	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:49:59.096	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:49:59.112	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:49:59.112	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:49:59.112	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:49:59.128	I	SYSTEM_STATUS	User object count: 575 / 575
+28.09.2026 14:49:59.128	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:53:59.477	I	SYSTEM_STATUS	CPU load: 1.0 % / 39
+28.09.2026 14:53:59.492	I	SYSTEM_STATUS	Used memory: 202.00 MB / 303
+28.09.2026 14:53:59.502	I	SYSTEM_STATUS	Handle count: 597 / 901
+28.09.2026 14:53:59.504	I	SYSTEM_STATUS	C:\: 264159.00 MB / 264159
+28.09.2026 14:53:59.504	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:53:59.516	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:53:59.529	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:53:59.531	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:53:59.531	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:53:59.531	I	SYSTEM_STATUS	User object count: 234 / 234
+28.09.2026 14:53:59.533	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 14:55:07.505	I	SYSTEM_STATUS	CPU load: 1.5 % / 65
+28.09.2026 14:55:07.521	I	SYSTEM_STATUS	Used memory: 138.00 MB / 207
+28.09.2026 14:55:07.538	I	SYSTEM_STATUS	Handle count: 915 / 1378
+28.09.2026 14:55:07.538	I	SYSTEM_STATUS	C:\: 264158.00 MB / 264158
+28.09.2026 14:55:07.538	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:55:07.552	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:55:07.584	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:55:07.600	I	SYSTEM_STATUS	GDI object count: 751 / 751
+28.09.2026 14:55:07.600	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 14:55:07.600	I	SYSTEM_STATUS	User object count: 576 / 576
+28.09.2026 14:55:07.600	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 14:59:08.484	I	SYSTEM_STATUS	CPU load: 0.8 % / 23
+28.09.2026 14:59:08.499	I	SYSTEM_STATUS	Used memory: 202.00 MB / 303
+28.09.2026 14:59:08.509	I	SYSTEM_STATUS	Handle count: 599 / 905
+28.09.2026 14:59:08.510	I	SYSTEM_STATUS	C:\: 264156.00 MB / 264156
+28.09.2026 14:59:08.512	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 14:59:08.512	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 14:59:08.542	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 14:59:08.543	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 14:59:08.544	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 14:59:08.545	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 14:59:08.546	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:00:17.111	I	SYSTEM_STATUS	CPU load: 1.0 % / 54
+28.09.2026 15:00:17.129	I	SYSTEM_STATUS	Used memory: 302.00 MB / 453
+28.09.2026 15:00:17.151	I	SYSTEM_STATUS	Handle count: 904 / 1362
+28.09.2026 15:00:17.152	I	SYSTEM_STATUS	C:\: 264155.00 MB / 264155
+28.09.2026 15:00:17.155	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:00:17.156	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:00:17.209	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:00:17.212	I	SYSTEM_STATUS	GDI object count: 738 / 738
+28.09.2026 15:00:17.214	I	SYSTEM_STATUS	Peak GDI object count: 773 / 773
+28.09.2026 15:00:17.214	I	SYSTEM_STATUS	User object count: 574 / 574
+28.09.2026 15:00:17.216	I	SYSTEM_STATUS	Peak user object count: 617 / 617
+28.09.2026 15:04:19.114	I	SYSTEM_STATUS	CPU load: 1.8 % / 61
+28.09.2026 15:04:19.133	I	SYSTEM_STATUS	Used memory: 202.00 MB / 303
+28.09.2026 15:04:19.152	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 15:04:19.154	I	SYSTEM_STATUS	C:\: 263912.00 MB / 263912
+28.09.2026 15:04:19.156	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:04:19.157	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:04:19.197	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:04:19.198	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:04:19.200	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:04:19.201	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:04:19.202	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:05:27.406	I	SYSTEM_STATUS	CPU load: 11.3 % / 66
+28.09.2026 15:05:27.412	I	SYSTEM_STATUS	Used memory: 307.67 MB / 467
+28.09.2026 15:05:27.417	I	SYSTEM_STATUS	Handle count: 898 / 1355
+28.09.2026 15:05:27.418	I	SYSTEM_STATUS	C:\: 263912.00 MB / 263912
+28.09.2026 15:05:27.418	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:05:27.418	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:05:27.426	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:05:27.427	I	SYSTEM_STATUS	GDI object count: 791 / 791
+28.09.2026 15:05:27.427	I	SYSTEM_STATUS	Peak GDI object count: 808 / 808
+28.09.2026 15:05:27.427	I	SYSTEM_STATUS	User object count: 639 / 639
+28.09.2026 15:05:27.427	I	SYSTEM_STATUS	Peak user object count: 641 / 641
+28.09.2026 15:05:53.090	W	FormOptions	DataPluginInfo::ReadOptionsDeclaration(): Die Datei C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\Options.Declaration.Export.Gpx.xml existiert nicht.
+28.09.2026 15:06:05.271	I	CONFIGURATION	Disconnect net drives
+28.09.2026 15:06:05.273	I	CONFIGURATION	Disconnected net drives
+28.09.2026 15:06:05.273	I	CONFIGURATION	Disconnect net drives
+28.09.2026 15:06:05.274	I	CONFIGURATION	Disconnected net drives
+28.09.2026 15:09:29.108	I	SYSTEM_STATUS	CPU load: 1.3 % / 17
+28.09.2026 15:09:29.119	I	SYSTEM_STATUS	Used memory: 202.67 MB / 304
+28.09.2026 15:09:29.130	I	SYSTEM_STATUS	Handle count: 591 / 893
+28.09.2026 15:09:29.130	I	SYSTEM_STATUS	C:\: 263880.00 MB / 263880
+28.09.2026 15:09:29.131	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:09:29.131	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:09:29.171	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:09:29.172	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:09:29.173	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:09:29.173	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:09:29.173	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:10:36.870	I	SYSTEM_STATUS	CPU load: 0.7 % / 49
+28.09.2026 15:10:36.884	I	SYSTEM_STATUS	Used memory: 332.00 MB / 498
+28.09.2026 15:10:36.896	I	SYSTEM_STATUS	Handle count: 943 / 1421
+28.09.2026 15:10:36.897	I	SYSTEM_STATUS	C:\: 263870.00 MB / 263870
+28.09.2026 15:10:36.899	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:10:36.900	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:10:36.930	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:10:36.931	I	SYSTEM_STATUS	GDI object count: 833 / 833
+28.09.2026 15:10:36.931	I	SYSTEM_STATUS	Peak GDI object count: 849 / 849
+28.09.2026 15:10:36.931	I	SYSTEM_STATUS	User object count: 604 / 604
+28.09.2026 15:10:36.931	I	SYSTEM_STATUS	Peak user object count: 714 / 714
+28.09.2026 15:12:22.729	W	FormOptions	DataPluginInfo::ReadOptionsDeclaration(): Die Datei C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\Options.Declaration.Export.Gpx.xml existiert nicht.
+28.09.2026 15:12:42.893	I	CONFIGURATION	Disconnect net drives
+28.09.2026 15:12:42.893	I	CONFIGURATION	Disconnected net drives
+28.09.2026 15:12:42.905	I	CONFIGURATION	Exit configuration
+28.09.2026 15:12:42.933	I	CONFIGURATION	Exit driver
+28.09.2026 15:12:42.937	I	CONFIGURATION	Disconnect net drives
+28.09.2026 15:12:42.937	I	CONFIGURATION	Disconnected net drives
+28.09.2026 15:12:42.937	I	CONFIGURATION	Exit done
+28.09.2026 15:12:42.939	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+28.09.2026 15:12:42.953	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+28.09.2026 15:14:37.832	I	SYSTEM_STATUS	CPU load: 0.8 % / 0
+28.09.2026 15:14:37.847	I	SYSTEM_STATUS	Used memory: 172.67 MB / 259
+28.09.2026 15:14:37.858	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 15:14:37.859	I	SYSTEM_STATUS	C:\: 264068.00 MB / 264068
+28.09.2026 15:14:37.861	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:14:37.861	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:14:37.879	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:14:37.880	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:14:37.880	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:14:37.881	I	SYSTEM_STATUS	User object count: 234 / 234
+28.09.2026 15:14:37.881	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:19:47.775	I	SYSTEM_STATUS	CPU load: 2.2 % / 63
+28.09.2026 15:19:47.791	I	SYSTEM_STATUS	Used memory: 144.67 MB / 217
+28.09.2026 15:19:47.798	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 15:19:47.800	I	SYSTEM_STATUS	C:\: 264048.00 MB / 264048
+28.09.2026 15:19:47.801	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:19:47.801	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:19:47.825	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:19:47.826	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:19:47.828	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:19:47.828	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:19:47.830	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:24:57.879	I	SYSTEM_STATUS	CPU load: 1.8 % / 57
+28.09.2026 15:24:57.894	I	SYSTEM_STATUS	Used memory: 144.67 MB / 217
+28.09.2026 15:24:57.906	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 15:24:57.909	I	SYSTEM_STATUS	C:\: 264043.00 MB / 264043
+28.09.2026 15:24:57.910	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:24:57.911	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:24:57.937	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:24:57.938	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:24:57.940	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:24:57.940	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:24:57.941	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:30:07.140	I	SYSTEM_STATUS	CPU load: 1.0 % / 49
+28.09.2026 15:30:07.158	I	SYSTEM_STATUS	Used memory: 147.33 MB / 221
+28.09.2026 15:30:07.166	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 15:30:07.166	I	SYSTEM_STATUS	C:\: 264032.00 MB / 264032
+28.09.2026 15:30:07.168	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:30:07.170	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:30:07.182	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:30:07.182	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:30:07.182	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:30:07.182	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:30:07.182	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:35:15.075	I	SYSTEM_STATUS	CPU load: 1.5 % / 49
+28.09.2026 15:35:15.095	I	SYSTEM_STATUS	Used memory: 148.67 MB / 223
+28.09.2026 15:35:15.105	I	SYSTEM_STATUS	Handle count: 605 / 913
+28.09.2026 15:35:15.105	I	SYSTEM_STATUS	C:\: 264032.00 MB / 264032
+28.09.2026 15:35:15.107	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:35:15.107	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:35:15.142	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:35:15.142	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:35:15.150	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:35:15.150	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:35:15.150	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:40:23.091	I	SYSTEM_STATUS	CPU load: 0.7 % / 48
+28.09.2026 15:40:23.107	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 15:40:23.123	I	SYSTEM_STATUS	Handle count: 600 / 906
+28.09.2026 15:40:23.123	I	SYSTEM_STATUS	C:\: 264032.00 MB / 264032
+28.09.2026 15:40:23.130	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:40:23.130	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:40:23.154	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:40:23.171	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:40:23.171	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:40:23.171	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:40:23.171	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:45:31.371	I	SYSTEM_STATUS	CPU load: 0.8 % / 70
+28.09.2026 15:45:31.374	I	SYSTEM_STATUS	Used memory: 208.00 MB / 312
+28.09.2026 15:45:31.374	I	SYSTEM_STATUS	Handle count: 601 / 890
+28.09.2026 15:45:31.374	I	SYSTEM_STATUS	C:\: 264028.00 MB / 264028
+28.09.2026 15:45:31.374	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:45:31.374	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:45:31.406	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:45:31.406	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:45:31.406	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:45:31.406	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:45:31.406	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:50:39.380	I	SYSTEM_STATUS	CPU load: 0.8 % / 38
+28.09.2026 15:50:39.393	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 15:50:39.406	I	SYSTEM_STATUS	Handle count: 603 / 910
+28.09.2026 15:50:39.408	I	SYSTEM_STATUS	C:\: 264027.00 MB / 264027
+28.09.2026 15:50:39.410	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:50:39.412	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:50:39.451	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:50:39.453	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:50:39.457	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:50:39.458	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:50:39.458	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 15:55:47.765	I	SYSTEM_STATUS	CPU load: 0.8 % / 41
+28.09.2026 15:55:47.791	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 15:55:47.811	I	SYSTEM_STATUS	Handle count: 595 / 898
+28.09.2026 15:55:47.811	I	SYSTEM_STATUS	C:\: 264042.00 MB / 264042
+28.09.2026 15:55:47.811	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 15:55:47.818	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 15:55:47.867	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 15:55:47.867	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 15:55:47.869	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 15:55:47.869	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 15:55:47.869	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:00:56.056	I	SYSTEM_STATUS	CPU load: 1.3 % / 41
+28.09.2026 16:00:56.068	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 16:00:56.076	I	SYSTEM_STATUS	Handle count: 608 / 918
+28.09.2026 16:00:56.076	I	SYSTEM_STATUS	C:\: 264040.00 MB / 264040
+28.09.2026 16:00:56.076	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:00:56.076	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:00:56.108	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:00:56.108	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:00:56.108	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:00:56.108	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:00:56.108	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:06:04.496	I	SYSTEM_STATUS	CPU load: 1.0 % / 65
+28.09.2026 16:06:04.509	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 16:06:04.528	I	SYSTEM_STATUS	Handle count: 595 / 898
+28.09.2026 16:06:04.528	I	SYSTEM_STATUS	C:\: 264042.00 MB / 264042
+28.09.2026 16:06:04.528	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:06:04.528	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:06:04.560	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:06:04.560	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:06:04.560	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:06:04.560	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:06:04.560	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:11:12.721	I	SYSTEM_STATUS	CPU load: 1.2 % / 66
+28.09.2026 16:11:12.736	I	SYSTEM_STATUS	Used memory: 208.67 MB / 313
+28.09.2026 16:11:12.768	I	SYSTEM_STATUS	Handle count: 608 / 918
+28.09.2026 16:11:12.768	I	SYSTEM_STATUS	C:\: 264040.00 MB / 264040
+28.09.2026 16:11:12.768	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:11:12.768	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:11:12.800	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:11:12.800	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:11:12.800	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:11:12.815	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:11:12.815	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:16:21.156	I	SYSTEM_STATUS	CPU load: 0.8 % / 46
+28.09.2026 16:16:21.170	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 16:16:21.180	I	SYSTEM_STATUS	Handle count: 597 / 902
+28.09.2026 16:16:21.180	I	SYSTEM_STATUS	C:\: 264041.00 MB / 264041
+28.09.2026 16:16:21.182	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:16:21.183	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:16:21.221	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:16:21.223	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:16:21.225	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:16:21.225	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:16:21.228	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:21:29.625	I	SYSTEM_STATUS	CPU load: 1.2 % / 49
+28.09.2026 16:21:29.656	I	SYSTEM_STATUS	Used memory: 207.33 MB / 311
+28.09.2026 16:21:29.672	I	SYSTEM_STATUS	Handle count: 608 / 918
+28.09.2026 16:21:29.686	I	SYSTEM_STATUS	C:\: 264041.00 MB / 264041
+28.09.2026 16:21:29.688	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:21:29.688	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:21:29.720	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:21:29.720	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:21:29.720	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:21:29.720	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:21:29.720	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:26:38.628	I	SYSTEM_STATUS	CPU load: 1.0 % / 48
+28.09.2026 16:26:38.639	I	SYSTEM_STATUS	Used memory: 208.00 MB / 312
+28.09.2026 16:26:38.644	I	SYSTEM_STATUS	Handle count: 603 / 910
+28.09.2026 16:26:38.646	I	SYSTEM_STATUS	C:\: 263977.00 MB / 263970
+28.09.2026 16:26:38.646	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:26:38.648	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:26:38.659	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:26:38.675	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:26:38.675	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:26:38.675	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:26:38.675	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:31:47.314	I	SYSTEM_STATUS	CPU load: 1.2 % / 97
+28.09.2026 16:31:47.314	I	SYSTEM_STATUS	Used memory: 206.67 MB / 310
+28.09.2026 16:31:47.330	I	SYSTEM_STATUS	Handle count: 603 / 910
+28.09.2026 16:31:47.330	I	SYSTEM_STATUS	C:\: 262210.00 MB / 262210
+28.09.2026 16:31:47.330	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:31:47.330	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:31:47.345	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:31:47.345	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:31:47.345	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:31:47.345	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:31:47.345	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:36:55.717	I	SYSTEM_STATUS	CPU load: 0.8 % / 35
+28.09.2026 16:36:55.727	I	SYSTEM_STATUS	Used memory: 203.33 MB / 305
+28.09.2026 16:36:55.735	I	SYSTEM_STATUS	Handle count: 600 / 906
+28.09.2026 16:36:55.737	I	SYSTEM_STATUS	C:\: 261743.00 MB / 261743
+28.09.2026 16:36:55.737	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:36:55.739	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:36:55.785	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:36:55.787	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:36:55.789	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:36:55.789	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:36:55.789	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:42:08.460	I	SYSTEM_STATUS	CPU load: 1.0 % / 48
+28.09.2026 16:42:08.479	I	SYSTEM_STATUS	Used memory: 203.33 MB / 305
+28.09.2026 16:42:08.479	I	SYSTEM_STATUS	Handle count: 592 / 894
+28.09.2026 16:42:08.479	I	SYSTEM_STATUS	C:\: 260879.00 MB / 260879
+28.09.2026 16:42:08.491	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:42:08.491	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:42:08.507	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:42:08.507	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:42:08.507	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:42:08.507	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:42:08.507	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:47:16.530	I	SYSTEM_STATUS	CPU load: 0.8 % / 79
+28.09.2026 16:47:16.543	I	SYSTEM_STATUS	Used memory: 206.00 MB / 309
+28.09.2026 16:47:16.551	I	SYSTEM_STATUS	Handle count: 595 / 885
+28.09.2026 16:47:16.552	I	SYSTEM_STATUS	C:\: 261540.00 MB / 261540
+28.09.2026 16:47:16.554	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:47:16.555	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:47:16.576	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:47:16.578	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:47:16.578	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:47:16.578	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:47:16.581	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:52:25.196	I	SYSTEM_STATUS	CPU load: 1.0 % / 44
+28.09.2026 16:52:25.205	I	SYSTEM_STATUS	Used memory: 206.67 MB / 310
+28.09.2026 16:52:25.218	I	SYSTEM_STATUS	Handle count: 597 / 901
+28.09.2026 16:52:25.220	I	SYSTEM_STATUS	C:\: 263940.00 MB / 263940
+28.09.2026 16:52:25.222	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:52:25.224	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:52:25.259	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:52:25.260	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:52:25.261	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:52:25.262	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:52:25.264	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 16:57:33.701	I	SYSTEM_STATUS	CPU load: 1.0 % / 86
+28.09.2026 16:57:33.716	I	SYSTEM_STATUS	Used memory: 204.67 MB / 307
+28.09.2026 16:57:33.725	I	SYSTEM_STATUS	Handle count: 602 / 909
+28.09.2026 16:57:33.726	I	SYSTEM_STATUS	C:\: 263927.00 MB / 263927
+28.09.2026 16:57:33.728	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 16:57:33.728	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 16:57:33.762	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 16:57:33.762	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 16:57:33.762	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 16:57:33.778	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 16:57:33.778	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:02:42.270	I	SYSTEM_STATUS	CPU load: 1.2 % / 37
+28.09.2026 17:02:42.277	I	SYSTEM_STATUS	Used memory: 204.00 MB / 306
+28.09.2026 17:02:42.291	I	SYSTEM_STATUS	Handle count: 589 / 889
+28.09.2026 17:02:42.291	I	SYSTEM_STATUS	C:\: 263924.00 MB / 263924
+28.09.2026 17:02:42.291	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:02:42.307	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:02:42.335	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:02:42.336	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:02:42.336	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:02:42.336	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:02:42.337	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:07:50.650	I	SYSTEM_STATUS	CPU load: 1.3 % / 49
+28.09.2026 17:07:50.688	I	SYSTEM_STATUS	Used memory: 205.33 MB / 308
+28.09.2026 17:07:50.702	I	SYSTEM_STATUS	Handle count: 602 / 909
+28.09.2026 17:07:50.702	I	SYSTEM_STATUS	C:\: 263908.00 MB / 263908
+28.09.2026 17:07:50.702	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:07:50.702	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:07:50.745	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:07:50.745	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:07:50.745	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:07:50.745	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:07:50.745	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:12:59.539	I	SYSTEM_STATUS	CPU load: 1.5 % / 31
+28.09.2026 17:12:59.547	I	SYSTEM_STATUS	Used memory: 204.67 MB / 307
+28.09.2026 17:12:59.556	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 17:12:59.557	I	SYSTEM_STATUS	C:\: 263531.00 MB / 263531
+28.09.2026 17:12:59.557	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:12:59.558	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:12:59.591	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:12:59.592	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:12:59.593	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:12:59.594	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:12:59.595	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:18:07.724	I	SYSTEM_STATUS	CPU load: 1.2 % / 66
+28.09.2026 17:18:07.733	I	SYSTEM_STATUS	Used memory: 164.00 MB / 246
+28.09.2026 17:18:07.740	I	SYSTEM_STATUS	Handle count: 602 / 909
+28.09.2026 17:18:07.740	I	SYSTEM_STATUS	C:\: 263530.00 MB / 263530
+28.09.2026 17:18:07.740	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:18:07.740	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:18:07.770	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:18:07.771	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:18:07.771	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:18:07.771	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:18:07.771	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:23:16.002	I	SYSTEM_STATUS	CPU load: 1.2 % / 49
+28.09.2026 17:23:16.018	I	SYSTEM_STATUS	Used memory: 149.33 MB / 224
+28.09.2026 17:23:16.034	I	SYSTEM_STATUS	Handle count: 602 / 909
+28.09.2026 17:23:16.034	I	SYSTEM_STATUS	C:\: 263532.00 MB / 263532
+28.09.2026 17:23:16.034	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:23:16.034	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:23:16.066	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:23:16.066	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:23:16.082	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:23:16.082	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:23:16.082	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:28:24.290	I	SYSTEM_STATUS	CPU load: 1.2 % / 0
+28.09.2026 17:28:24.301	I	SYSTEM_STATUS	Used memory: 149.33 MB / 224
+28.09.2026 17:28:24.323	I	SYSTEM_STATUS	Handle count: 594 / 897
+28.09.2026 17:28:24.323	I	SYSTEM_STATUS	C:\: 263532.00 MB / 263532
+28.09.2026 17:28:24.325	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:28:24.327	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:28:24.362	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:28:24.362	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:28:24.362	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:28:24.362	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:28:24.362	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:33:32.501	I	SYSTEM_STATUS	CPU load: 1.2 % / 48
+28.09.2026 17:33:32.527	I	SYSTEM_STATUS	Used memory: 150.00 MB / 224
+28.09.2026 17:33:32.535	I	SYSTEM_STATUS	Handle count: 597 / 885
+28.09.2026 17:33:32.537	I	SYSTEM_STATUS	C:\: 263535.00 MB / 263535
+28.09.2026 17:33:32.537	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+28.09.2026 17:33:32.549	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+28.09.2026 17:33:32.565	I	SYSTEM_STATUS	Energy options: Turn-off the hard drive active / 2
+28.09.2026 17:33:32.565	I	SYSTEM_STATUS	GDI object count: 196 / 196
+28.09.2026 17:33:32.565	I	SYSTEM_STATUS	Peak GDI object count: 228 / 228
+28.09.2026 17:33:32.565	I	SYSTEM_STATUS	User object count: 232 / 232
+28.09.2026 17:33:32.565	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+28.09.2026 17:35:37.739	I	CONFIGURATION	Disconnect net drives
+28.09.2026 17:35:37.739	I	CONFIGURATION	Disconnected net drives
+28.09.2026 17:35:37.759	I	CONFIGURATION	Exit configuration
+28.09.2026 17:35:37.759	I	CONFIGURATION	Exit driver
+28.09.2026 17:35:37.766	I	CONFIGURATION	Disconnect net drives
+28.09.2026 17:35:37.766	I	CONFIGURATION	Disconnected net drives
+28.09.2026 17:35:37.767	I	CONFIGURATION	Exit done
+28.09.2026 17:35:37.766	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any):  Start
+28.09.2026 17:35:37.768	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any, Disconnected):  Drive entweder nicht verbunden oder Verbindung nicht von diesem Prozess hergestellt
+29.09.2026 09:39:05.632	I	IPEmotion.QuickStarter	Begin loading
+29.09.2026 09:40:02.674	I	SYSTEM	V16.02.00 RC Build 4581: Lizenztyp: Developer
+29.09.2026 09:40:02.674	I	SYSTEM	Init GPG started
+29.09.2026 09:40:02.862	I	SYSTEM	Init GPG finished Key found: False IsPublic: False IsPrivate: False KeyId: 
+29.09.2026 09:40:17.177	I	MAL	MAL IPEmotionRT: Version: V09.02.00.72332 Path:C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\MAL\IPEmotionRT
+29.09.2026 09:40:44.128	I	IO	RawDataBackupDirectoryController.InitCapacity(): IrdCount:0  DirSize:0  FreeSize:276011163648
+29.09.2026 09:40:44.169	I	IO	RawDataBackupDirectoryController.ControlCapacity(): IrdCount:0  DirSize:0  FreeSize:276011163648 DeletedFiles:0
+29.09.2026 09:40:44.418	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+29.09.2026 09:40:44.506	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+29.09.2026 09:40:44.534	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+29.09.2026 09:40:44.565	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+29.09.2026 09:40:44.597	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+29.09.2026 09:40:44.600	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+29.09.2026 09:40:44.615	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+29.09.2026 09:40:44.660	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+29.09.2026 09:40:45.000	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+29.09.2026 09:40:46.349	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+29.09.2026 09:40:46.569	I	UOP	Plugin '_META_NOOP': Version: V01.00.00.00000 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\_Meta
+29.09.2026 09:40:46.569	E	UOP	Plugin '_META_NOOP' wurde bereits initialisiert
+29.09.2026 09:40:46.584	I	UOP	Plugin 'ReplaceNoValues Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\ReplaceNoValues
+29.09.2026 09:40:46.584	E	UOP	Plugin 'ReplaceNoValues Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.590	I	UOP	Plugin 'Rounding Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Rounding
+29.09.2026 09:40:46.592	E	UOP	Plugin 'Rounding Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.600	I	UOP	Plugin 'Invert Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Invert
+29.09.2026 09:40:46.600	E	UOP	Plugin 'Invert Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.606	I	UOP	Plugin 'Average Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Average
+29.09.2026 09:40:46.608	E	UOP	Plugin 'Average Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.616	I	UOP	Plugin 'Smoothing Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Smoothing
+29.09.2026 09:40:46.616	E	UOP	Plugin 'Smoothing Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.626	I	UOP	Plugin 'Resampling Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Resampling
+29.09.2026 09:40:46.626	E	UOP	Plugin 'Resampling Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.634	I	UOP	Plugin 'TimeCorrection Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\TimeCorrection
+29.09.2026 09:40:46.634	E	UOP	Plugin 'TimeCorrection Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.654	I	UOP	Plugin 'Approximation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\Approximation
+29.09.2026 09:40:46.655	E	UOP	Plugin 'Approximation Plugin' wurde bereits initialisiert
+29.09.2026 09:40:46.727	I	UOP	Plugin 'PowerCalculation Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\UOP\PowerCalculation
+29.09.2026 09:40:46.727	E	UOP	Plugin 'PowerCalculation Plugin' wurde bereits initialisiert
+29.09.2026 09:40:53.928	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+29.09.2026 09:40:53.972	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+29.09.2026 09:40:53.974	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+29.09.2026 09:40:53.984	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+29.09.2026 09:40:53.984	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+29.09.2026 09:40:54.060	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+29.09.2026 09:40:54.102	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+29.09.2026 09:40:54.182	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+29.09.2026 09:40:54.385	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+29.09.2026 09:40:54.437	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+29.09.2026 09:40:54.481	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+29.09.2026 09:40:54.493	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+29.09.2026 09:40:54.599	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+29.09.2026 09:40:54.991	I	VEP	Plugin 'Bar graph': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BarChart
+29.09.2026 09:40:54.993	E	VEP	Plugin 'Bar graph' wurde bereits initialisiert
+29.09.2026 09:40:55.017	I	VEP	Plugin 'Analog Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Analog
+29.09.2026 09:40:55.020	E	VEP	Plugin 'Analog Plugin' wurde bereits initialisiert
+29.09.2026 09:40:55.027	I	VEP	Plugin 'Label': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Label
+29.09.2026 09:40:55.029	E	VEP	Plugin 'Label' wurde bereits initialisiert
+29.09.2026 09:40:55.035	I	VEP	Plugin 'Slide control': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Slider
+29.09.2026 09:40:55.035	E	VEP	Plugin 'Slide control' wurde bereits initialisiert
+29.09.2026 09:40:55.061	I	VEP	Plugin 'Box and Whisker Plot': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\BoxPlot
+29.09.2026 09:40:55.061	E	VEP	Plugin 'Box and Whisker Plot' wurde bereits initialisiert
+29.09.2026 09:40:55.067	I	VEP	Plugin 'Statistical Table': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\StatisticTable
+29.09.2026 09:40:55.068	E	VEP	Plugin 'Statistical Table' wurde bereits initialisiert
+29.09.2026 09:40:55.074	I	VEP	Plugin 'Tachometer Plugin': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Tachometer
+29.09.2026 09:40:55.076	E	VEP	Plugin 'Tachometer Plugin' wurde bereits initialisiert
+29.09.2026 09:40:55.092	I	VEP	Plugin 'Diagnostics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Diagnostics
+29.09.2026 09:40:55.094	E	VEP	Plugin 'Diagnostics' wurde bereits initialisiert
+29.09.2026 09:40:55.100	I	VEP	Plugin 'Scatter Chart': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\ScatterChart
+29.09.2026 09:40:55.102	E	VEP	Plugin 'Scatter Chart' wurde bereits initialisiert
+29.09.2026 09:40:55.128	I	VEP	Plugin 'Mollier Diagram': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Mollier
+29.09.2026 09:40:55.132	E	VEP	Plugin 'Mollier Diagram' wurde bereits initialisiert
+29.09.2026 09:40:55.161	I	VEP	Plugin 'Compass/Directional Display': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Compass
+29.09.2026 09:40:55.161	E	VEP	Plugin 'Compass/Directional Display' wurde bereits initialisiert
+29.09.2026 09:40:55.180	I	VEP	Plugin 'Characteristics': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\Characteristics
+29.09.2026 09:40:55.180	E	VEP	Plugin 'Characteristics' wurde bereits initialisiert
+29.09.2026 09:40:55.241	I	VEP	Plugin 'HeatFlow Matrix': Version: V16.02.00.4581 Path: C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\VEP\HeatFlowMatrix
+29.09.2026 09:40:55.243	E	VEP	Plugin 'HeatFlow Matrix' wurde bereits initialisiert
+29.09.2026 09:40:56.634	I	VISUAL	ActiveFormIndex: 1
+29.09.2026 09:41:03.858	I	ExternalSource	No file for external source defined.
+29.09.2026 09:41:27.226	I	SYSTEM	Searching RT-USB-Devices
+29.09.2026 09:41:27.257	I	SYSTEM	No RT-USB-Device found
+29.09.2026 09:41:29.081	I	CONFIGURATION	WorkspaceIbf: C:\ProgramData\IPETRONIK\IPEmotion 2026 R3 RC\23356_IPEmotion.ilf
+29.09.2026 09:41:30.212	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Any):  Start der Verbindung
+29.09.2026 09:41:33.770	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 3):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+29.09.2026 09:41:33.770	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): LOG_2574.zip / LOG_2576.zip
+29.09.2026 09:41:36.224	I	MAL	Update firmware
+29.09.2026 09:41:43.346	I	MAL	DeleteUpdateFiles:: Update_finished
+29.09.2026 09:41:43.354	I	MAL	DeleteUpdateFiles:: Update_reboot
+29.09.2026 09:43:06.425	I	MAL	Update firmware reboot
+29.09.2026 09:43:09.109	I	MAL	Update firmware reboot connection lost
+29.09.2026 09:44:17.601	I	MAL	Update firmware reboot connection available
+29.09.2026 09:45:00.043	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+29.09.2026 09:45:24.531	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+29.09.2026 09:45:49.101	I	MAL	CheckFileByWebClient: System.Net.WebException: The underlying connection was closed: The server committed a protocol violation.
+   at System.Net.FtpWebRequest.SyncRequestCallback(Object obj)
+   at System.Net.CommandStream.Dispose(Boolean disposing)
+   at System.IO.Stream.Close()
+   at System.Net.ConnectionPool.Destroy(PooledStream pooledStream)
+   at System.Net.ConnectionPool.PutConnection(PooledStream pooledStream, Object owningObject, Int32 creationTimeout, Boolean canReuse)
+   at System.Net.FtpWebRequest.FinishRequestStage(RequestStage stage)
+   at System.Net.FtpWebRequest.GetResponse()
+   at IpemotionRt.RtLogger.GetFileListByWebClient(String loggerUrl)
+29.09.2026 09:46:22.783	I	MAL	Update firmware finished
+29.09.2026 09:46:25.650	I	SYSTEM_STATUS	CPU load: 5.5 % / 32
+29.09.2026 09:46:25.674	I	SYSTEM_STATUS	Used memory: 330.67 MB / 496
+29.09.2026 09:46:25.683	I	SYSTEM_STATUS	Handle count: 855 / 1269
+29.09.2026 09:46:25.683	I	SYSTEM_STATUS	C:\: 263207.00 MB / 263207
+29.09.2026 09:46:25.683	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 09:46:25.683	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+29.09.2026 09:46:25.723	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 09:46:25.723	I	SYSTEM_STATUS	GDI object count: 148 / 148
+29.09.2026 09:46:25.723	I	SYSTEM_STATUS	Peak GDI object count: 167 / 167
+29.09.2026 09:46:25.723	I	SYSTEM_STATUS	User object count: 140 / 140
+29.09.2026 09:46:25.723	I	SYSTEM_STATUS	Peak user object count: 180 / 180
+29.09.2026 09:46:56.419	I	CONFIGURATION	Exit configuration
+29.09.2026 09:46:56.419	I	CONFIGURATION	Exit driver
+29.09.2026 09:46:56.667	I	CONFIGURATION	Disconnect net drives
+29.09.2026 09:46:56.667	I	CONFIGURATION	Disconnected net drives
+29.09.2026 09:46:56.667	I	CONFIGURATION	Exit done
+29.09.2026 09:46:56.675	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+29.09.2026 09:46:56.711	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:): WNetCancelConnection2 hat Verbindung erfolgreich getrennt
+29.09.2026 09:46:59.283	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+29.09.2026 09:46:59.283	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+29.09.2026 09:46:59.283	E	ACQUISITION	PC: SetInitValue ipv6Dest1: The selected value has an invalid format.
+29.09.2026 09:51:36.396	I	SYSTEM_STATUS	CPU load: 3.2 % / 19
+29.09.2026 09:51:36.417	I	SYSTEM_STATUS	Used memory: 336.00 MB / 504
+29.09.2026 09:51:36.435	I	SYSTEM_STATUS	Handle count: 833 / 1256
+29.09.2026 09:51:36.435	I	SYSTEM_STATUS	C:\: 262983.00 MB / 262983
+29.09.2026 09:51:36.435	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 09:51:36.443	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+29.09.2026 09:51:36.497	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 09:51:36.500	I	SYSTEM_STATUS	GDI object count: 164 / 164
+29.09.2026 09:51:36.500	I	SYSTEM_STATUS	Peak GDI object count: 186 / 186
+29.09.2026 09:51:36.503	I	SYSTEM_STATUS	User object count: 231 / 231
+29.09.2026 09:51:36.503	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+29.09.2026 09:53:42.953	I	IPEmotion.QuickStarter	End loading, 3588822169 bytes read, 2 of 21342 files failed
+29.09.2026 09:53:45.662	I	IPEmotion.QuickStarter	265 fonts accessed
+29.09.2026 09:56:47.595	I	SYSTEM_STATUS	CPU load: 1.5 % / 70
+29.09.2026 09:56:47.626	I	SYSTEM_STATUS	Used memory: 326.67 MB / 490
+29.09.2026 09:56:47.642	I	SYSTEM_STATUS	Handle count: 752 / 1134
+29.09.2026 09:56:47.642	I	SYSTEM_STATUS	C:\: 262952.00 MB / 262952
+29.09.2026 09:56:47.642	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 09:56:47.642	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1920347
+29.09.2026 09:56:47.701	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 09:56:47.701	I	SYSTEM_STATUS	GDI object count: 146 / 146
+29.09.2026 09:56:47.701	I	SYSTEM_STATUS	Peak GDI object count: 186 / 186
+29.09.2026 09:56:47.701	I	SYSTEM_STATUS	User object count: 227 / 227
+29.09.2026 09:56:47.701	I	SYSTEM_STATUS	Peak user object count: 253 / 253
+29.09.2026 09:57:06.799	W	FormOptions	DataPluginInfo::ReadOptionsDeclaration(): Die Datei C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\Options.Declaration.Export.Gpx.xml existiert nicht.
+29.09.2026 09:57:21.293	I	CONFIGURATION	Disconnect net drives
+29.09.2026 09:57:21.293	I	CONFIGURATION	Disconnected net drives
+29.09.2026 09:57:21.293	I	CONFIGURATION	Disconnect net drives
+29.09.2026 09:57:21.293	I	CONFIGURATION	Disconnected net drives
+29.09.2026 09:57:41.207	W	FormOptions	DataPluginInfo::ReadOptionsDeclaration(): Die Datei C:\Program Files\IPETRONIK\IPEmotion 2026 R3 RC Build 4581\Options.Declaration.Export.Gpx.xml existiert nicht.
+29.09.2026 09:59:01.743	I	CONFIGURATION	Disconnect net drives
+29.09.2026 09:59:01.743	I	CONFIGURATION	Disconnected net drives
+29.09.2026 09:59:01.743	I	CONFIGURATION	Disconnect net drives
+29.09.2026 09:59:01.743	I	CONFIGURATION	Disconnected net drives
+29.09.2026 09:59:03.886	I	SYSTEM	Searching RT-USB-Devices
+29.09.2026 09:59:03.886	I	SYSTEM	No RT-USB-Device found
+29.09.2026 09:59:04.464	I	IO	NetDrive.Connect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start der Verbindung
+29.09.2026 09:59:04.991	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:, 6):  Verbindung erfolgreich und mit Laufwerk Z: verkn pft
+29.09.2026 09:59:04.991	I	IO	NetDrive.Connect(): Internal Drive:(IPEmotionRT): LOG_2574.zip / LOG_2580.zip
+29.09.2026 10:01:58.576	I	SYSTEM_STATUS	CPU load: 4.2 % / 31
+29.09.2026 10:01:58.591	I	SYSTEM_STATUS	Used memory: 335.33 MB / 503
+29.09.2026 10:01:58.604	I	SYSTEM_STATUS	Handle count: 897 / 1353
+29.09.2026 10:01:58.606	I	SYSTEM_STATUS	C:\: 262596.00 MB / 262596
+29.09.2026 10:01:58.610	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 10:01:58.611	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1936569
+29.09.2026 10:01:58.643	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 10:01:58.643	I	SYSTEM_STATUS	GDI object count: 243 / 243
+29.09.2026 10:01:58.643	I	SYSTEM_STATUS	Peak GDI object count: 259 / 259
+29.09.2026 10:01:58.643	I	SYSTEM_STATUS	User object count: 284 / 284
+29.09.2026 10:01:58.643	I	SYSTEM_STATUS	Peak user object count: 385 / 385
+29.09.2026 10:04:27.751	I	VISUAL	InteractiveMessage: IPElog2:
+The time delay between logger and PC is more than 5s: 33s.
+29.09.2026 10:07:39.619	I	SYSTEM_STATUS	CPU load: 2.0 % / 49
+29.09.2026 10:07:39.635	I	SYSTEM_STATUS	Used memory: 355.33 MB / 533
+29.09.2026 10:07:39.663	I	SYSTEM_STATUS	Handle count: 915 / 1379
+29.09.2026 10:07:39.667	I	SYSTEM_STATUS	C:\: 262553.00 MB / 262553
+29.09.2026 10:07:39.669	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 10:07:39.672	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1936569
+29.09.2026 10:07:39.725	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 10:07:39.726	I	SYSTEM_STATUS	GDI object count: 239 / 239
+29.09.2026 10:07:39.728	I	SYSTEM_STATUS	Peak GDI object count: 259 / 259
+29.09.2026 10:07:39.728	I	SYSTEM_STATUS	User object count: 255 / 255
+29.09.2026 10:07:39.731	I	SYSTEM_STATUS	Peak user object count: 385 / 385
+29.09.2026 10:12:52.537	I	SYSTEM_STATUS	CPU load: 2.2 % / 30
+29.09.2026 10:12:52.557	I	SYSTEM_STATUS	Used memory: 321.33 MB / 482
+29.09.2026 10:12:52.573	I	SYSTEM_STATUS	Handle count: 890 / 1341
+29.09.2026 10:12:52.573	I	SYSTEM_STATUS	C:\: 262539.00 MB / 262539
+29.09.2026 10:12:52.573	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawData\: 172.09 MB / 172.0942
+29.09.2026 10:12:52.579	I	SYSTEM_STATUS	C:\Users\Public\Documents\IPETRONIK\IPEmotion\RawDataBackup\: 0.19 MB / 0.1936569
+29.09.2026 10:12:52.631	I	SYSTEM_STATUS	Energy options: Standby active / 3
+29.09.2026 10:12:52.631	I	SYSTEM_STATUS	GDI object count: 239 / 239
+29.09.2026 10:12:52.631	I	SYSTEM_STATUS	Peak GDI object count: 259 / 259
+29.09.2026 10:12:52.636	I	SYSTEM_STATUS	User object count: 254 / 254
+29.09.2026 10:12:52.636	I	SYSTEM_STATUS	Peak user object count: 385 / 385
+29.09.2026 10:15:23.173	I	CONFIGURATION	Disconnect net drives
+29.09.2026 10:15:23.177	I	CONFIGURATION	Disconnected net drives
+29.09.2026 10:15:23.217	I	CONFIGURATION	Exit configuration
+29.09.2026 10:15:23.452	E	MAL-POOL	IPElog2-Command: 3221291016 Result: 3758686209
+29.09.2026 10:15:23.454	I	CONFIGURATION	Exit driver
+29.09.2026 10:15:23.737	I	CONFIGURATION	Disconnect net drives
+29.09.2026 10:15:23.737	I	CONFIGURATION	Disconnected net drives
+29.09.2026 10:15:23.737	I	CONFIGURATION	Exit done
+29.09.2026 10:15:23.737	I	IO	NetDrive.Disconnect(): Drive:(IPEmotionRT, http://192.168.236.1/StorageData, ftp, Z:):  Start
+29.09.2026 10:21:27.428	I	IPEmotion.QuickStarter	Begin loading
+29.09.2026 10:37:17.632	I	IPEmotion.QuickStarter	End loading, 3588822002 bytes read, 2 of 21342 files failed
+29.09.2026 10:37:19.982	I	IPEmotion.QuickStarter	265 fonts accessed
